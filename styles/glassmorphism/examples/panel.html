@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head><meta charset="utf-8" /><title>Glass panel</title>
+    <style>
+      body { margin: 0; min-height: 100vh; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); font-family: -apple-system, sans-serif; display: grid; place-items: center; }
+      body::before { content: ''; position: fixed; inset: 0; background: radial-gradient(circle at 20% 30%, #FF6B9D 0%, transparent 40%), radial-gradient(circle at 80% 70%, #4ECDC4 0%, transparent 40%); filter: blur(80px); }
+      .panel { position: relative; padding: 32px 40px; background: rgba(255,255,255,0.1); backdrop-filter: blur(20px) saturate(180%); -webkit-backdrop-filter: blur(20px) saturate(180%); border: 1px solid rgba(255,255,255,0.2); border-radius: 24px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); color: #fff; }
+      .panel h2 { margin: 0 0 8px; font-weight: 600; }
+      .panel p { margin: 0; opacity: 0.85; }
+    </style>
+  </head>
+  <body>
+    <div class="panel">
+      <h2>Frosted panel</h2>
+      <p>backdrop-filter does the heavy lifting.</p>
+    </div>
+  </body>
+</html>

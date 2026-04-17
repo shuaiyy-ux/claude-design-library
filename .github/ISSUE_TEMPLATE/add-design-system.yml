@@ -1,0 +1,31 @@
+name: Propose a design system
+description: Suggest an open-source component library / design system to index
+title: "[design-system] "
+labels: [design-system, enhancement]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Project URL
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      placeholder: MIT, Apache-2.0, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why include this?
+      description: What makes it notable? Who is it for?
+    validations:
+      required: true

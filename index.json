@@ -1,0 +1,1742 @@
+{
+  "generated_at": "2026-04-17T23:10:30.789Z",
+  "count": 93,
+  "entries": [
+    {
+      "name": "Analytics Dark Dashboard",
+      "slug": "analytics-dark",
+      "type": "template",
+      "tags": [
+        "dashboard",
+        "dark",
+        "analytics",
+        "kpi",
+        "sidebar"
+      ],
+      "tech": [
+        "html",
+        "tailwind"
+      ],
+      "source_url": "https://github.com/claude-design-library",
+      "license": "MIT",
+      "claude_prompt": "Use analytics-dark template: sidebar + topbar + 4 KPI cards + chart placeholder + recent-activity table, dark slate theme.",
+      "added": "2026-04-17",
+      "path": "templates/dashboards/analytics-dark/template.md"
+    },
+    {
+      "name": "Anime.js",
+      "slug": "anime-js",
+      "type": "animation",
+      "tags": [
+        "vanilla",
+        "lightweight",
+        "timeline"
+      ],
+      "tech": [
+        "javascript"
+      ],
+      "source_url": "https://github.com/juliangarnier/anime",
+      "license": "MIT",
+      "claude_prompt": "Use Anime.js: lightweight JS animation library with a timeline API. Framework-agnostic.",
+      "added": "2026-04-17",
+      "path": "animation/entries/anime-js.md"
+    },
+    {
+      "name": "Ant Design",
+      "slug": "ant-design",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "enterprise",
+        "dashboard",
+        "b2b",
+        "comprehensive"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://ant.design",
+      "license": "MIT",
+      "claude_prompt": "Use Ant Design for enterprise/B2B dashboards: dense data tables, forms, complex controls. Theme via ConfigProvider.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/ant-design.md"
+    },
+    {
+      "name": "Arco Design",
+      "slug": "arco-design",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "vue",
+        "enterprise",
+        "bytedance"
+      ],
+      "tech": [
+        "react",
+        "vue",
+        "typescript"
+      ],
+      "source_url": "https://github.com/arco-design/arco-design",
+      "license": "MIT",
+      "claude_prompt": "Use Arco Design: ByteDance enterprise-class React/Vue design system.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/arco-design.md"
+    },
+    {
+      "name": "Ark UI",
+      "slug": "ark-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "vue",
+        "solid",
+        "headless",
+        "multi-framework",
+        "chakra"
+      ],
+      "tech": [
+        "react",
+        "vue",
+        "solid"
+      ],
+      "source_url": "https://github.com/chakra-ui/ark",
+      "license": "MIT",
+      "claude_prompt": "Use Ark UI: headless, multi-framework component primitives from the Chakra team (works in React, Vue, Solid).",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/ark-ui.md"
+    },
+    {
+      "name": "Astrofy",
+      "slug": "astrofy",
+      "type": "template",
+      "tags": [
+        "astro",
+        "portfolio",
+        "blog",
+        "tailwind"
+      ],
+      "tech": [
+        "astro",
+        "tailwind"
+      ],
+      "source_url": "https://github.com/manuelernestog/astrofy",
+      "license": "MIT",
+      "claude_prompt": "Use Astrofy: free Astro personal portfolio template with blog and projects.",
+      "added": "2026-04-17",
+      "path": "templates/kits/astrofy.md"
+    },
+    {
+      "name": "AutoAnimate",
+      "slug": "auto-animate",
+      "type": "animation",
+      "tags": [
+        "zero-config",
+        "layout-transitions",
+        "any-framework"
+      ],
+      "tech": [
+        "react",
+        "vue",
+        "svelte",
+        "solid",
+        "javascript"
+      ],
+      "source_url": "https://github.com/formkit/auto-animate",
+      "license": "MIT",
+      "claude_prompt": "Use AutoAnimate: one-line hook/directive to add transitions to any framework (add, remove, reorder).",
+      "added": "2026-04-17",
+      "path": "animation/entries/auto-animate.md"
+    },
+    {
+      "name": "awesome-css-in-js",
+      "slug": "awesome-cssinjs",
+      "type": "awesome-list",
+      "tags": [
+        "css-in-js",
+        "styled-components",
+        "emotion"
+      ],
+      "source_url": "https://github.com/tuchk4/awesome-css-in-js",
+      "license": "CC0-1.0",
+      "claude_prompt": "Browse awesome-css-in-js for CSS-in-JS libraries and patterns.",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-cssinjs.md"
+    },
+    {
+      "name": "awesome-design-systems",
+      "slug": "awesome-design-systems",
+      "type": "awesome-list",
+      "tags": [
+        "design-system",
+        "curated",
+        "directory"
+      ],
+      "source_url": "https://github.com/alexpate/awesome-design-systems",
+      "license": "CC0-1.0",
+      "claude_prompt": "Browse awesome-design-systems for a curated directory of design systems from across the industry.",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-design-systems.md"
+    },
+    {
+      "name": "Awesome-Design-Tokens",
+      "slug": "awesome-design-tokens",
+      "type": "awesome-list",
+      "tags": [
+        "design-tokens",
+        "tooling",
+        "w3c"
+      ],
+      "source_url": "https://github.com/sturobson/Awesome-Design-Tokens",
+      "license": "reference-only",
+      "claude_prompt": "Browse Awesome-Design-Tokens for design token tooling, specs, and W3C standards.",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-design-tokens.md"
+    },
+    {
+      "name": "awesome-react-components",
+      "slug": "awesome-react-components",
+      "type": "awesome-list",
+      "tags": [
+        "react",
+        "components",
+        "curated"
+      ],
+      "source_url": "https://github.com/brillout/awesome-react-components",
+      "license": "CC0-1.0",
+      "claude_prompt": "Browse awesome-react-components for curated React UI and utility components.",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-react-components.md"
+    },
+    {
+      "name": "awesome-svelte",
+      "slug": "awesome-svelte",
+      "type": "awesome-list",
+      "tags": [
+        "svelte",
+        "sveltekit",
+        "curated"
+      ],
+      "source_url": "https://github.com/TheComputerM/awesome-svelte",
+      "license": "CC0-1.0",
+      "claude_prompt": "Browse awesome-svelte for Svelte/SvelteKit libraries and UI components.",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-svelte.md"
+    },
+    {
+      "name": "awesome-tailwindcss",
+      "slug": "awesome-tailwindcss",
+      "type": "awesome-list",
+      "tags": [
+        "tailwind",
+        "plugins",
+        "resources"
+      ],
+      "source_url": "https://github.com/aniftyco/awesome-tailwindcss",
+      "license": "CC0-1.0",
+      "claude_prompt": "Browse awesome-tailwindcss for plugins, templates, and Tailwind-related resources.",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-tailwindcss.md"
+    },
+    {
+      "name": "awesome-vue",
+      "slug": "awesome-vue",
+      "type": "awesome-list",
+      "tags": [
+        "vue",
+        "curated",
+        "official"
+      ],
+      "source_url": "https://github.com/vuejs/awesome-vue",
+      "license": "MIT",
+      "claude_prompt": "Browse awesome-vue (official) for Vue libraries, UI, and learning resources.",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-vue.md"
+    },
+    {
+      "name": "awesome-web-components",
+      "slug": "awesome-web-components",
+      "type": "awesome-list",
+      "tags": [
+        "web-components",
+        "custom-elements"
+      ],
+      "source_url": "https://github.com/web-padawan/awesome-web-components",
+      "license": "CC0-1.0",
+      "claude_prompt": "Browse awesome-web-components for web components, tools, and frameworks (Lit, Stencil, etc.).",
+      "added": "2026-04-17",
+      "path": "awesome-lists/entries/awesome-web-components.md"
+    },
+    {
+      "name": "Base UI",
+      "slug": "base-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "unstyled",
+        "mui",
+        "primitives"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://github.com/mui/base-ui",
+      "license": "MIT",
+      "claude_prompt": "Use Base UI: MUI team's unstyled, accessible React primitives.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/base-ui.md"
+    },
+    {
+      "name": "Bits UI",
+      "slug": "bits-ui",
+      "type": "design-system",
+      "tags": [
+        "svelte",
+        "headless",
+        "primitives",
+        "accessible"
+      ],
+      "tech": [
+        "svelte"
+      ],
+      "source_url": "https://github.com/huntabyte/bits-ui",
+      "license": "MIT",
+      "claude_prompt": "Use Bits UI: headless Svelte primitives (the foundation under shadcn-svelte).",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/bits-ui.md"
+    },
+    {
+      "name": "Bootstrap",
+      "slug": "bootstrap",
+      "type": "design-system",
+      "tags": [
+        "css",
+        "vanilla",
+        "ubiquitous",
+        "responsive-grid"
+      ],
+      "tech": [
+        "html",
+        "css",
+        "javascript"
+      ],
+      "source_url": "https://getbootstrap.com",
+      "license": "MIT",
+      "claude_prompt": "Use Bootstrap 5: class-based CSS framework, 12-column grid, native HTML components. No JS framework required.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/bootstrap.md"
+    },
+    {
+      "name": "Bootstrap Icons",
+      "slug": "bootstrap-icons",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "bootstrap"
+      ],
+      "source_url": "https://github.com/twbs/icons",
+      "license": "MIT",
+      "claude_prompt": "Use Bootstrap Icons: 2000+ SVG icons, works anywhere (no Bootstrap dependency required).",
+      "added": "2026-04-17",
+      "path": "icons/entries/bootstrap-icons.md"
+    },
+    {
+      "name": "Brutalism",
+      "slug": "brutalism",
+      "type": "style",
+      "tags": [
+        "bold",
+        "raw",
+        "high-contrast",
+        "geometric",
+        "anti-design"
+      ],
+      "source_url": "https://brutalistwebsites.com",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply brutalism: thick 2-4px black borders, no rounded corners, hard shadows, raw system fonts mixed with monospace, saturated primaries on white or electric backgrounds, no gradients, deliberate typographic clash.",
+      "added": "2026-04-17",
+      "path": "styles/brutalism/style.md"
+    },
+    {
+      "name": "Carbon Design System",
+      "slug": "carbon",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "ibm",
+        "enterprise",
+        "open-source"
+      ],
+      "tech": [
+        "react",
+        "vanilla",
+        "typescript"
+      ],
+      "source_url": "https://github.com/carbon-design-system/carbon",
+      "license": "Apache-2.0",
+      "claude_prompt": "Use Carbon Design System: IBM's enterprise-oriented design system for React (and vanilla).",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/carbon.md"
+    },
+    {
+      "name": "Chakra UI",
+      "slug": "chakra-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "themeable",
+        "accessible",
+        "style-props"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://chakra-ui.com",
+      "license": "MIT",
+      "claude_prompt": "Use Chakra UI: style-props-based React components, strong dark mode, accessible defaults.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/chakra-ui.md"
+    },
+    {
+      "name": "Claymorphism",
+      "slug": "claymorphism",
+      "type": "style",
+      "tags": [
+        "soft",
+        "puffy",
+        "tactile",
+        "3d",
+        "friendly"
+      ],
+      "source_url": "https://hype4.academy/articles/design/claymorphism-in-user-interfaces",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply claymorphism: chunky rounded corners (20-32px), two layered inset shadows for depth (one dark inner, one light inner at opposite corner), soft pastel backgrounds, thick padding, cartoony friendly feel.",
+      "added": "2026-04-17",
+      "path": "styles/claymorphism/style.md"
+    },
+    {
+      "name": "CoreUI Free React Admin Template",
+      "slug": "coreui-react-admin",
+      "type": "template",
+      "tags": [
+        "react",
+        "admin",
+        "bootstrap"
+      ],
+      "tech": [
+        "react",
+        "bootstrap"
+      ],
+      "source_url": "https://github.com/coreui/coreui-free-react-admin-template",
+      "license": "MIT",
+      "claude_prompt": "Use CoreUI free React admin template: Bootstrap-based React dashboard starter.",
+      "added": "2026-04-17",
+      "path": "templates/admin/coreui-react.md"
+    },
+    {
+      "name": "daisyUI",
+      "slug": "daisyui",
+      "type": "design-system",
+      "tags": [
+        "tailwind",
+        "css-only",
+        "themes",
+        "semantic-classes"
+      ],
+      "tech": [
+        "tailwind",
+        "css"
+      ],
+      "source_url": "https://daisyui.com",
+      "license": "MIT",
+      "claude_prompt": "Use daisyUI: Tailwind plugin that adds semantic classes (btn, card, modal) and 30+ themes. Works with any framework.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/daisyui.md"
+    },
+    {
+      "name": "Editorial Magazine",
+      "slug": "editorial-magazine",
+      "type": "style",
+      "tags": [
+        "serif",
+        "print",
+        "editorial",
+        "long-form",
+        "refined"
+      ],
+      "source_url": "https://www.are.na/explore",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply editorial magazine style: elegant serif headlines (Playfair, GT Sectra, Canela), drop caps, long-form column layouts, image captions in italic small caps, soft cream background, generous line-height, rule lines between sections.",
+      "added": "2026-04-17",
+      "path": "styles/editorial-magazine/style.md"
+    },
+    {
+      "name": "Element Plus",
+      "slug": "element-plus",
+      "type": "design-system",
+      "tags": [
+        "vue",
+        "enterprise",
+        "mature"
+      ],
+      "tech": [
+        "vue",
+        "typescript"
+      ],
+      "source_url": "https://github.com/element-plus/element-plus",
+      "license": "MIT",
+      "claude_prompt": "Use Element Plus: Vue 3 UI library (successor to Element UI).",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/element-plus.md"
+    },
+    {
+      "name": "Feather Icons",
+      "slug": "feather",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "line-icons",
+        "minimal"
+      ],
+      "source_url": "https://github.com/feathericons/feather",
+      "license": "MIT",
+      "claude_prompt": "Use Feather icons: 280+ simply-drawn line-style SVG icons.",
+      "added": "2026-04-17",
+      "path": "icons/entries/feather.md"
+    },
+    {
+      "name": "Fira Code",
+      "slug": "fira-code",
+      "type": "font",
+      "tags": [
+        "mono",
+        "code",
+        "ligatures"
+      ],
+      "source_url": "https://github.com/tonsky/FiraCode",
+      "license": "OFL-1.1",
+      "claude_prompt": "Use Fira Code: monospace font with extensive programming ligatures.",
+      "added": "2026-04-17",
+      "path": "fonts/entries/fira-code.md"
+    },
+    {
+      "name": "Float UI",
+      "slug": "float-ui",
+      "type": "template",
+      "tags": [
+        "tailwind",
+        "react",
+        "components",
+        "templates"
+      ],
+      "tech": [
+        "tailwind",
+        "react",
+        "html"
+      ],
+      "source_url": "https://github.com/Float-UI/floatui",
+      "license": "MIT",
+      "claude_prompt": "Use Float UI: modern Tailwind + React components and templates.",
+      "added": "2026-04-17",
+      "path": "templates/kits/float-ui.md"
+    },
+    {
+      "name": "Flowbite",
+      "slug": "flowbite",
+      "type": "design-system",
+      "tags": [
+        "tailwind",
+        "html",
+        "react",
+        "vue",
+        "svelte",
+        "components"
+      ],
+      "tech": [
+        "tailwind",
+        "html",
+        "react",
+        "vue",
+        "svelte"
+      ],
+      "source_url": "https://github.com/themesberg/flowbite",
+      "license": "MIT",
+      "claude_prompt": "Use Flowbite: Tailwind CSS component library with interactive JS components, available for React, Vue, and Svelte.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/flowbite.md"
+    },
+    {
+      "name": "Fluent UI",
+      "slug": "fluent-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "microsoft",
+        "fluent",
+        "enterprise"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://github.com/microsoft/fluentui",
+      "license": "MIT",
+      "claude_prompt": "Use Fluent UI: Microsoft's Fluent Design components for React.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/fluent-ui.md"
+    },
+    {
+      "name": "Fontsource",
+      "slug": "fontsource",
+      "type": "font",
+      "tags": [
+        "self-host",
+        "npm",
+        "tooling"
+      ],
+      "source_url": "https://github.com/fontsource/fontsource",
+      "license": "MIT",
+      "claude_prompt": "Use Fontsource to self-host any open-source font via npm (@fontsource/<slug>). Tooling is MIT; each font retains its own license.",
+      "added": "2026-04-17",
+      "path": "fonts/entries/fontsource.md"
+    },
+    {
+      "name": "Geist",
+      "slug": "geist",
+      "type": "font",
+      "tags": [
+        "sans",
+        "mono",
+        "vercel",
+        "modern"
+      ],
+      "source_url": "https://github.com/vercel/geist-font",
+      "license": "OFL-1.1",
+      "claude_prompt": "Use Geist: Vercel's sans + mono typefaces, modern and geometric.",
+      "added": "2026-04-17",
+      "path": "fonts/entries/geist.md"
+    },
+    {
+      "name": "Glassmorphism",
+      "slug": "glassmorphism",
+      "type": "style",
+      "tags": [
+        "translucent",
+        "frosted",
+        "depth",
+        "apple",
+        "colorful-bg"
+      ],
+      "source_url": "https://hype4.academy/articles/design/glassmorphism-in-user-interfaces",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply glassmorphism: translucent white/dark panels with backdrop-filter blur(20px), subtle 1px inner border, colorful blurred shapes behind panels, soft large radii (16-24px), subtle shadows.",
+      "added": "2026-04-17",
+      "path": "styles/glassmorphism/style.md"
+    },
+    {
+      "name": "Google Fonts (collection)",
+      "slug": "google-fonts",
+      "type": "font",
+      "tags": [
+        "collection",
+        "variable",
+        "web-fonts"
+      ],
+      "source_url": "https://github.com/google/fonts",
+      "license": "OFL-1.1",
+      "claude_prompt": "Browse Google Fonts repo for 1500+ open-source typefaces. Per-font license varies (mostly OFL, some Apache-2.0 / UFL) — check each.",
+      "added": "2026-04-17",
+      "path": "fonts/entries/google-fonts.md"
+    },
+    {
+      "name": "Headless UI",
+      "slug": "headless-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "vue",
+        "unstyled",
+        "accessible",
+        "tailwind-labs"
+      ],
+      "tech": [
+        "react",
+        "vue"
+      ],
+      "source_url": "https://headlessui.com",
+      "license": "MIT",
+      "claude_prompt": "Use Headless UI: unstyled, accessible React/Vue components from Tailwind Labs. Pair with Tailwind for styling.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/headless-ui.md"
+    },
+    {
+      "name": "Heroicons",
+      "slug": "heroicons",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "tailwind-labs",
+        "outline",
+        "solid",
+        "mini"
+      ],
+      "source_url": "https://github.com/tailwindlabs/heroicons",
+      "license": "MIT",
+      "claude_prompt": "Use Heroicons by Tailwind Labs: outline, solid, and mini variants. Install via @heroicons/react or @heroicons/vue.",
+      "added": "2026-04-17",
+      "path": "icons/entries/heroicons.md"
+    },
+    {
+      "name": "HeroUI (formerly NextUI)",
+      "slug": "heroui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "tailwind",
+        "react-aria",
+        "modern",
+        "accessible"
+      ],
+      "tech": [
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "source_url": "https://github.com/heroui-inc/heroui",
+      "license": "MIT",
+      "claude_prompt": "Use HeroUI: React + Tailwind + React Aria components with a modern, colorful aesthetic.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/heroui.md"
+    },
+    {
+      "name": "HyperUI",
+      "slug": "hyperui",
+      "type": "template",
+      "tags": [
+        "tailwind",
+        "blocks",
+        "html",
+        "free"
+      ],
+      "tech": [
+        "tailwind",
+        "html"
+      ],
+      "source_url": "https://github.com/markmead/hyperui",
+      "license": "MIT",
+      "claude_prompt": "Use HyperUI: free collection of copy-paste Tailwind components and blocks.",
+      "added": "2026-04-17",
+      "path": "templates/kits/hyperui.md"
+    },
+    {
+      "name": "IBM Plex",
+      "slug": "ibm-plex",
+      "type": "font",
+      "tags": [
+        "sans",
+        "serif",
+        "mono",
+        "corporate"
+      ],
+      "source_url": "https://github.com/IBM/plex",
+      "license": "OFL-1.1",
+      "claude_prompt": "Use IBM Plex: corporate-grade sans/serif/mono family. Great for technical and enterprise branding.",
+      "added": "2026-04-17",
+      "path": "fonts/entries/ibm-plex.md"
+    },
+    {
+      "name": "Iconoir",
+      "slug": "iconoir",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "no-tracking",
+        "comprehensive"
+      ],
+      "source_url": "https://github.com/iconoir-icons/iconoir",
+      "license": "MIT",
+      "claude_prompt": "Use Iconoir: 1500+ free SVG icons, zero dependencies, no tracking.",
+      "added": "2026-04-17",
+      "path": "icons/entries/iconoir.md"
+    },
+    {
+      "name": "Inter",
+      "slug": "inter",
+      "type": "font",
+      "tags": [
+        "sans",
+        "ui",
+        "variable"
+      ],
+      "source_url": "https://github.com/rsms/inter",
+      "license": "OFL-1.1",
+      "claude_prompt": "Use Inter: variable-axis sans-serif designed for UI. System-font-like but better legibility at small sizes.",
+      "added": "2026-04-17",
+      "path": "fonts/entries/inter.md"
+    },
+    {
+      "name": "JetBrains Mono",
+      "slug": "jetbrains-mono",
+      "type": "font",
+      "tags": [
+        "mono",
+        "code",
+        "ligatures"
+      ],
+      "source_url": "https://github.com/JetBrains/JetBrainsMono",
+      "license": "OFL-1.1",
+      "claude_prompt": "Use JetBrains Mono: developer-focused monospace with programming ligatures.",
+      "added": "2026-04-17",
+      "path": "fonts/entries/jetbrains-mono.md"
+    },
+    {
+      "name": "Kobalte",
+      "slug": "kobalte",
+      "type": "design-system",
+      "tags": [
+        "solid",
+        "headless",
+        "accessible"
+      ],
+      "tech": [
+        "solid",
+        "typescript"
+      ],
+      "source_url": "https://github.com/kobaltedev/kobalte",
+      "license": "MIT",
+      "claude_prompt": "Use Kobalte: headless, accessible SolidJS component library (the Solid equivalent of Radix).",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/kobalte.md"
+    },
+    {
+      "name": "Lineicons",
+      "slug": "lineicons",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "line-style",
+        "free"
+      ],
+      "source_url": "https://github.com/LineiconsHQ/Lineicons",
+      "license": "MIT",
+      "claude_prompt": "Use Lineicons: free line-style icon pack.",
+      "added": "2026-04-17",
+      "path": "icons/entries/lineicons.md"
+    },
+    {
+      "name": "Lottie Web",
+      "slug": "lottie-web",
+      "type": "animation",
+      "tags": [
+        "after-effects",
+        "svg",
+        "canvas",
+        "airbnb"
+      ],
+      "tech": [
+        "javascript"
+      ],
+      "source_url": "https://github.com/airbnb/lottie-web",
+      "license": "MIT",
+      "claude_prompt": "Use Lottie Web to render After Effects animations as SVG or Canvas on the web.",
+      "added": "2026-04-17",
+      "path": "animation/entries/lottie-web.md"
+    },
+    {
+      "name": "Lucide",
+      "slug": "lucide",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "feather-fork",
+        "active",
+        "line-icons"
+      ],
+      "source_url": "https://github.com/lucide-icons/lucide",
+      "license": "ISC",
+      "claude_prompt": "Use Lucide icons: actively-maintained Feather fork, 1500+ line-style SVGs. Install via lucide-react / lucide-vue / etc.",
+      "added": "2026-04-17",
+      "path": "icons/entries/lucide.md"
+    },
+    {
+      "name": "Mantine",
+      "slug": "mantine",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "comprehensive",
+        "hooks",
+        "form"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://mantine.dev",
+      "license": "MIT",
+      "claude_prompt": "Use Mantine: 100+ React components plus @mantine/hooks and @mantine/form. Strong defaults, dark mode.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/mantine.md"
+    },
+    {
+      "name": "Mantis Free React Admin",
+      "slug": "mantis-free-react",
+      "type": "template",
+      "tags": [
+        "react",
+        "mui",
+        "admin"
+      ],
+      "tech": [
+        "react",
+        "mui"
+      ],
+      "source_url": "https://github.com/codedthemes/mantis-free-react-admin-template",
+      "license": "MIT",
+      "claude_prompt": "Use Mantis Free React Admin: MUI-based React admin dashboard template.",
+      "added": "2026-04-17",
+      "path": "templates/admin/mantis-free-react.md"
+    },
+    {
+      "name": "Material Symbols / Icons",
+      "slug": "material-symbols",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "google",
+        "material-design",
+        "variable-font"
+      ],
+      "source_url": "https://github.com/google/material-design-icons",
+      "license": "Apache-2.0",
+      "claude_prompt": "Use Material Symbols: Google's variable-font icon system (fill, weight, grade, optical size axes).",
+      "added": "2026-04-17",
+      "path": "icons/entries/material-symbols.md"
+    },
+    {
+      "name": "Material Tailwind",
+      "slug": "material-tailwind",
+      "type": "template",
+      "tags": [
+        "tailwind",
+        "material-design",
+        "react",
+        "html"
+      ],
+      "tech": [
+        "tailwind",
+        "react",
+        "html"
+      ],
+      "source_url": "https://github.com/creativetimofficial/material-tailwind",
+      "license": "MIT",
+      "claude_prompt": "Use Material Tailwind: Material Design-inspired Tailwind components for React and HTML.",
+      "added": "2026-04-17",
+      "path": "templates/kits/material-tailwind.md"
+    },
+    {
+      "name": "Material UI (MUI)",
+      "slug": "material-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "material-design",
+        "google",
+        "comprehensive"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://mui.com",
+      "license": "MIT",
+      "claude_prompt": "Use MUI (Material UI): Google's Material Design in React. Theme via createTheme; components via @mui/material.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/material-ui.md"
+    },
+    {
+      "name": "Melt UI",
+      "slug": "melt-ui",
+      "type": "design-system",
+      "tags": [
+        "svelte",
+        "headless",
+        "builders",
+        "accessible"
+      ],
+      "tech": [
+        "svelte"
+      ],
+      "source_url": "https://github.com/melt-ui/melt-ui",
+      "license": "MIT",
+      "claude_prompt": "Use Melt UI: headless, accessible Svelte component builders (the builder API under Bits UI).",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/melt-ui.md"
+    },
+    {
+      "name": "Meraki UI",
+      "slug": "meraki-ui",
+      "type": "template",
+      "tags": [
+        "tailwind",
+        "rtl",
+        "components",
+        "html"
+      ],
+      "tech": [
+        "tailwind",
+        "html"
+      ],
+      "source_url": "https://github.com/merakiui/merakiui",
+      "license": "MIT",
+      "claude_prompt": "Use Meraki UI: Tailwind components with full RTL support.",
+      "added": "2026-04-17",
+      "path": "templates/kits/meraki-ui.md"
+    },
+    {
+      "name": "Minimal / Swiss",
+      "slug": "minimal-swiss",
+      "type": "style",
+      "tags": [
+        "minimal",
+        "grid",
+        "typographic",
+        "restrained",
+        "editorial"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/International_Typographic_Style",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply Swiss/minimal style: strict 12-column grid, generous whitespace, Helvetica or Inter, black on white with one accent color, no decorative elements, asymmetric balance, hierarchy via type size only.",
+      "added": "2026-04-17",
+      "path": "styles/minimal-swiss/style.md"
+    },
+    {
+      "name": "Motion (Framer Motion)",
+      "slug": "motion",
+      "type": "animation",
+      "tags": [
+        "react",
+        "javascript",
+        "production-grade"
+      ],
+      "tech": [
+        "react",
+        "javascript"
+      ],
+      "source_url": "https://github.com/motiondivision/motion",
+      "license": "MIT",
+      "claude_prompt": "Use Motion (formerly Framer Motion): production-ready React animation library with layout animations and gestures.",
+      "added": "2026-04-17",
+      "path": "animation/entries/motion.md"
+    },
+    {
+      "name": "Motion One",
+      "slug": "motion-one",
+      "type": "animation",
+      "tags": [
+        "vanilla",
+        "waapi",
+        "tiny"
+      ],
+      "tech": [
+        "javascript"
+      ],
+      "source_url": "https://github.com/motiondivision/motionone",
+      "license": "MIT",
+      "claude_prompt": "Use Motion One: tiny Web Animations API wrapper (~4kb) for any framework.",
+      "added": "2026-04-17",
+      "path": "animation/entries/motion-one.md"
+    },
+    {
+      "name": "Naive UI",
+      "slug": "naive-ui",
+      "type": "design-system",
+      "tags": [
+        "vue",
+        "typescript",
+        "themeable",
+        "modern"
+      ],
+      "tech": [
+        "vue",
+        "typescript"
+      ],
+      "source_url": "https://github.com/tusen-ai/naive-ui",
+      "license": "MIT",
+      "claude_prompt": "Use Naive UI: Vue 3, TypeScript-first component library with strong theming.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/naive-ui.md"
+    },
+    {
+      "name": "Neo-Brutalism",
+      "slug": "neobrutalism",
+      "type": "style",
+      "tags": [
+        "bold",
+        "playful",
+        "pastel",
+        "geometric",
+        "web3"
+      ],
+      "source_url": "https://www.neobrutalism.dev",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply neo-brutalism: 2-3px black borders, hard offset shadows, pastel backgrounds (mint, peach, periwinkle), rounded but small radius (4-8px), chunky sans-serif, friendly not aggressive.",
+      "added": "2026-04-17",
+      "path": "styles/neobrutalism/style.md"
+    },
+    {
+      "name": "Next.js shadcn Dashboard Starter",
+      "slug": "next-shadcn-dashboard-starter",
+      "type": "template",
+      "tags": [
+        "next",
+        "react",
+        "shadcn",
+        "tailwind",
+        "admin"
+      ],
+      "tech": [
+        "next",
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "source_url": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+      "license": "MIT",
+      "claude_prompt": "Use next-shadcn-dashboard-starter: modern Next.js 14 + shadcn/ui admin dashboard starter.",
+      "added": "2026-04-17",
+      "path": "templates/admin/next-shadcn-dashboard-starter.md"
+    },
+    {
+      "name": "Next.js Commerce",
+      "slug": "nextjs-commerce",
+      "type": "template",
+      "tags": [
+        "next",
+        "react",
+        "ecommerce",
+        "shopify",
+        "vercel"
+      ],
+      "tech": [
+        "next",
+        "react",
+        "typescript",
+        "tailwind"
+      ],
+      "source_url": "https://github.com/vercel/commerce",
+      "license": "MIT",
+      "claude_prompt": "Use Next.js Commerce: Vercel's high-performance e-commerce template (Shopify backend by default).",
+      "added": "2026-04-17",
+      "path": "templates/kits/nextjs-commerce.md"
+    },
+    {
+      "name": "Nuxt UI",
+      "slug": "nuxt-ui",
+      "type": "design-system",
+      "tags": [
+        "vue",
+        "nuxt",
+        "tailwind",
+        "headless-ui"
+      ],
+      "tech": [
+        "vue",
+        "nuxt",
+        "tailwind"
+      ],
+      "source_url": "https://github.com/nuxt/ui",
+      "license": "MIT",
+      "claude_prompt": "Use Nuxt UI: Tailwind + Headless UI components optimized for Nuxt.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/nuxt-ui.md"
+    },
+    {
+      "name": "Park UI",
+      "slug": "park-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "vue",
+        "solid",
+        "panda-css",
+        "ark-ui",
+        "framework-agnostic"
+      ],
+      "tech": [
+        "react",
+        "vue",
+        "solid",
+        "panda-css"
+      ],
+      "source_url": "https://park-ui.com",
+      "license": "MIT",
+      "claude_prompt": "Use Park UI: Ark UI (framework-agnostic primitives) + Panda CSS recipes. Works in React, Vue, Solid.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/park-ui.md"
+    },
+    {
+      "name": "Phosphor Icons",
+      "slug": "phosphor",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "multi-weight",
+        "friendly"
+      ],
+      "source_url": "https://github.com/phosphor-icons/core",
+      "license": "MIT",
+      "claude_prompt": "Use Phosphor icons: flexible icon family with 6 weights (thin, light, regular, bold, fill, duotone).",
+      "added": "2026-04-17",
+      "path": "icons/entries/phosphor.md"
+    },
+    {
+      "name": "Polaris",
+      "slug": "polaris",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "shopify",
+        "commerce",
+        "merchant-ui"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://github.com/Shopify/polaris",
+      "license": "MIT",
+      "claude_prompt": "Use Shopify Polaris: React component library for merchant-facing admin UI.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/polaris.md"
+    },
+    {
+      "name": "Preline UI",
+      "slug": "preline",
+      "type": "design-system",
+      "tags": [
+        "tailwind",
+        "html",
+        "components",
+        "plugin"
+      ],
+      "tech": [
+        "tailwind",
+        "html",
+        "javascript"
+      ],
+      "source_url": "https://github.com/htmlstreamofficial/preline",
+      "license": "MIT",
+      "claude_prompt": "Use Preline UI: open-source Tailwind CSS components and Tailwind plugin.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/preline.md"
+    },
+    {
+      "name": "Pricing Table (3-tier)",
+      "slug": "pricing-table",
+      "type": "template",
+      "tags": [
+        "pricing",
+        "component",
+        "3-tier",
+        "featured-plan"
+      ],
+      "tech": [
+        "html",
+        "css"
+      ],
+      "source_url": "https://github.com/claude-design-library",
+      "license": "MIT",
+      "claude_prompt": "Use pricing-table component: 3 tiers with middle plan highlighted, vanilla CSS (no framework), responsive.",
+      "added": "2026-04-17",
+      "path": "templates/components/pricing-table/template.md"
+    },
+    {
+      "name": "Primer",
+      "slug": "primer",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "github",
+        "dev-tool",
+        "refined"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://github.com/primer/react",
+      "license": "MIT",
+      "claude_prompt": "Use Primer React: GitHub's design system components.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/primer.md"
+    },
+    {
+      "name": "PrimeReact",
+      "slug": "primereact",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "comprehensive",
+        "themes",
+        "data-heavy"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://github.com/primefaces/primereact",
+      "license": "MIT",
+      "claude_prompt": "Use PrimeReact: rich component library (90+ components) with many built-in themes. PrimeVue and PrimeNG are siblings.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/primereact.md"
+    },
+    {
+      "name": "Quasar",
+      "slug": "quasar",
+      "type": "design-system",
+      "tags": [
+        "vue",
+        "cross-platform",
+        "spa",
+        "mobile",
+        "electron"
+      ],
+      "tech": [
+        "vue",
+        "typescript"
+      ],
+      "source_url": "https://github.com/quasarframework/quasar",
+      "license": "MIT",
+      "claude_prompt": "Use Quasar: Vue-based framework targeting SPA, PWA, SSR, mobile, and Electron from a single codebase.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/quasar.md"
+    },
+    {
+      "name": "Radix Icons",
+      "slug": "radix-icons",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "15x15",
+        "compact",
+        "dense-ui"
+      ],
+      "source_url": "https://github.com/radix-ui/icons",
+      "license": "MIT",
+      "claude_prompt": "Use Radix Icons: crisp 15x15 icons, ideal for dense UIs and inline text.",
+      "added": "2026-04-17",
+      "path": "icons/entries/radix-icons.md"
+    },
+    {
+      "name": "Radix UI",
+      "slug": "radix-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "unstyled",
+        "accessible",
+        "primitives"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://www.radix-ui.com",
+      "license": "MIT",
+      "claude_prompt": "Use Radix UI primitives: unstyled, accessible React components (Dialog, Popover, Select, etc.). Bring your own styles.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/radix-ui.md"
+    },
+    {
+      "name": "React Aria / React Spectrum",
+      "slug": "react-aria",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "accessibility",
+        "hooks",
+        "adobe",
+        "primitives"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://github.com/adobe/react-spectrum",
+      "license": "Apache-2.0",
+      "claude_prompt": "Use React Aria: Adobe's accessibility-first React hooks and primitives. React Spectrum is the styled reference implementation.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/react-aria.md"
+    },
+    {
+      "name": "Remix Icon",
+      "slug": "remix-icon",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "neutral",
+        "24x24",
+        "line-fill-pairs"
+      ],
+      "source_url": "https://github.com/Remix-Design/RemixIcon",
+      "license": "Apache-2.0",
+      "claude_prompt": "Use Remix Icon: neutral-style open-source icons with matched line/fill pairs.",
+      "added": "2026-04-17",
+      "path": "icons/entries/remix-icon.md"
+    },
+    {
+      "name": "Retro Terminal",
+      "slug": "retro-terminal",
+      "type": "style",
+      "tags": [
+        "monospace",
+        "cli",
+        "phosphor",
+        "scanlines",
+        "hacker"
+      ],
+      "source_url": "https://github.com/topics/terminal-style",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply retro terminal: monospace only (IBM Plex Mono or VT323), phosphor green or amber on near-black, optional CRT scanlines via repeating linear-gradient, blinking block cursor, ASCII-art headings, no images.",
+      "added": "2026-04-17",
+      "path": "styles/retro-terminal/style.md"
+    },
+    {
+      "name": "SaaS Minimal Landing",
+      "slug": "saas-minimal",
+      "type": "template",
+      "tags": [
+        "landing",
+        "saas",
+        "minimal",
+        "hero",
+        "pricing"
+      ],
+      "tech": [
+        "html",
+        "tailwind"
+      ],
+      "source_url": "https://github.com/claude-design-library",
+      "license": "MIT",
+      "claude_prompt": "Use saas-minimal template as a starting point: hero + 3-feature grid + pricing + CTA, Tailwind CDN, black-on-white minimal aesthetic.",
+      "added": "2026-04-17",
+      "path": "templates/landing-pages/saas-minimal/template.md"
+    },
+    {
+      "name": "Semi Design",
+      "slug": "semi-design",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "douyin",
+        "bytedance",
+        "themeable"
+      ],
+      "tech": [
+        "react",
+        "typescript"
+      ],
+      "source_url": "https://github.com/DouyinFE/semi-design",
+      "license": "MIT",
+      "claude_prompt": "Use Semi Design: Douyin/TikTok modern React design system with strong theming.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/semi-design.md"
+    },
+    {
+      "name": "shadcn/ui",
+      "slug": "shadcn-ui",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "tailwind",
+        "radix",
+        "copy-paste",
+        "themeable"
+      ],
+      "tech": [
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "source_url": "https://ui.shadcn.com",
+      "license": "MIT",
+      "claude_prompt": "Use shadcn/ui: Radix primitives + Tailwind, components are copied into the project (not imported), CSS variables for theming, composable.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/shadcn-ui.md"
+    },
+    {
+      "name": "Simple Icons",
+      "slug": "simple-icons",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "brands",
+        "logos"
+      ],
+      "source_url": "https://github.com/simple-icons/simple-icons",
+      "license": "CC0-1.0",
+      "claude_prompt": "Use Simple Icons for brand logos (GitHub, Figma, npm, etc.) — single-color SVGs of popular brands.",
+      "added": "2026-04-17",
+      "path": "icons/entries/simple-icons.md"
+    },
+    {
+      "name": "Skeleton",
+      "slug": "skeleton",
+      "type": "design-system",
+      "tags": [
+        "svelte",
+        "tailwind",
+        "themeable"
+      ],
+      "tech": [
+        "svelte",
+        "tailwind"
+      ],
+      "source_url": "https://github.com/skeletonlabs/skeleton",
+      "license": "MIT",
+      "claude_prompt": "Use Skeleton: Svelte + Tailwind UI toolkit with themes.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/skeleton.md"
+    },
+    {
+      "name": "Skeuomorphic",
+      "slug": "skeuomorphic",
+      "type": "style",
+      "tags": [
+        "realistic",
+        "textured",
+        "3d",
+        "ios6",
+        "tactile"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Skeuomorph",
+      "license": "CC-BY-4.0",
+      "claude_prompt": "Apply skeuomorphism: realistic gradients simulating bevels, textured backgrounds (linen, felt, leather), inner highlights and outer shadows to suggest depth, controls that look like physical objects.",
+      "added": "2026-04-17",
+      "path": "styles/skeuomorphic/style.md"
+    },
+    {
+      "name": "Soft UI Dashboard Tailwind",
+      "slug": "soft-ui-dashboard-tailwind",
+      "type": "template",
+      "tags": [
+        "tailwind",
+        "admin",
+        "soft-ui",
+        "html"
+      ],
+      "tech": [
+        "tailwind",
+        "html"
+      ],
+      "source_url": "https://github.com/creativetimofficial/soft-ui-dashboard-tailwind",
+      "license": "MIT",
+      "claude_prompt": "Use Soft UI Dashboard Tailwind: Tailwind-based admin template with soft-UI aesthetic.",
+      "added": "2026-04-17",
+      "path": "templates/admin/soft-ui-dashboard-tailwind.md"
+    },
+    {
+      "name": "Tabler",
+      "slug": "tabler-admin",
+      "type": "template",
+      "tags": [
+        "bootstrap",
+        "admin",
+        "dashboard",
+        "html"
+      ],
+      "tech": [
+        "bootstrap",
+        "html"
+      ],
+      "source_url": "https://github.com/tabler/tabler",
+      "license": "MIT",
+      "claude_prompt": "Use Tabler as a Bootstrap-based admin dashboard template with a clean, responsive design.",
+      "added": "2026-04-17",
+      "path": "templates/admin/tabler.md"
+    },
+    {
+      "name": "Tabler Icons",
+      "slug": "tabler-icons",
+      "type": "icon-set",
+      "tags": [
+        "svg",
+        "line-icons",
+        "comprehensive"
+      ],
+      "source_url": "https://github.com/tabler/tabler-icons",
+      "license": "MIT",
+      "claude_prompt": "Use Tabler Icons: 4000+ free SVG icons, consistent 24x24 grid.",
+      "added": "2026-04-17",
+      "path": "icons/entries/tabler-icons.md"
+    },
+    {
+      "name": "Tailblocks",
+      "slug": "tailblocks",
+      "type": "template",
+      "tags": [
+        "tailwind",
+        "blocks",
+        "html",
+        "themeable"
+      ],
+      "tech": [
+        "tailwind",
+        "html"
+      ],
+      "source_url": "https://github.com/mertJF/tailblocks",
+      "license": "MIT",
+      "claude_prompt": "Use Tailblocks: ready-to-use Tailwind CSS blocks with color theme swapping.",
+      "added": "2026-04-17",
+      "path": "templates/kits/tailblocks.md"
+    },
+    {
+      "name": "Tailwind CSS Animate",
+      "slug": "tailwindcss-animate",
+      "type": "animation",
+      "tags": [
+        "tailwind",
+        "plugin",
+        "utilities",
+        "shadcn"
+      ],
+      "tech": [
+        "tailwind"
+      ],
+      "source_url": "https://github.com/jamiebuilds/tailwindcss-animate",
+      "license": "MIT",
+      "claude_prompt": "Use tailwindcss-animate: Tailwind plugin adding animation utilities (used internally by shadcn/ui).",
+      "added": "2026-04-17",
+      "path": "animation/entries/tailwindcss-animate.md"
+    },
+    {
+      "name": "Taxonomy (shadcn/ui example app)",
+      "slug": "taxonomy",
+      "type": "template",
+      "tags": [
+        "next",
+        "react",
+        "shadcn",
+        "tailwind",
+        "saas"
+      ],
+      "tech": [
+        "next",
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "source_url": "https://github.com/shadcn-ui/taxonomy",
+      "license": "MIT",
+      "claude_prompt": "Use Taxonomy as a Next.js 13 app-router SaaS example built with shadcn/ui.",
+      "added": "2026-04-17",
+      "path": "templates/admin/shadcn-taxonomy.md"
+    },
+    {
+      "name": "TDesign",
+      "slug": "tdesign",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "vue",
+        "tencent",
+        "enterprise"
+      ],
+      "tech": [
+        "react",
+        "vue"
+      ],
+      "source_url": "https://github.com/Tencent/tdesign",
+      "license": "MIT",
+      "claude_prompt": "Use TDesign: Tencent's enterprise design system with React, Vue, and mobile bindings.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/tdesign.md"
+    },
+    {
+      "name": "Tremor",
+      "slug": "tremor",
+      "type": "design-system",
+      "tags": [
+        "react",
+        "tailwind",
+        "dashboard",
+        "charts",
+        "analytics"
+      ],
+      "tech": [
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "source_url": "https://github.com/tremorlabs/tremor",
+      "license": "Apache-2.0",
+      "claude_prompt": "Use Tremor: React components for dashboards and analytics (charts, KPI cards, tables) built on Tailwind.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/tremor.md"
+    },
+    {
+      "name": "Vue Element Admin",
+      "slug": "vue-element-admin",
+      "type": "template",
+      "tags": [
+        "vue",
+        "admin",
+        "dashboard",
+        "element-ui"
+      ],
+      "tech": [
+        "vue",
+        "element-ui"
+      ],
+      "source_url": "https://github.com/PanJiaChen/vue-element-admin",
+      "license": "MIT",
+      "claude_prompt": "Use vue-element-admin as a Vue 2 admin dashboard template reference.",
+      "added": "2026-04-17",
+      "path": "templates/admin/vue-element-admin.md"
+    },
+    {
+      "name": "Vue Vben Admin",
+      "slug": "vue-vben-admin",
+      "type": "template",
+      "tags": [
+        "vue3",
+        "admin",
+        "dashboard",
+        "vite",
+        "typescript"
+      ],
+      "tech": [
+        "vue",
+        "vite",
+        "typescript"
+      ],
+      "source_url": "https://github.com/vbenjs/vue-vben-admin",
+      "license": "MIT",
+      "claude_prompt": "Use vue-vben-admin as a modern Vue 3 + Vite + TS admin framework.",
+      "added": "2026-04-17",
+      "path": "templates/admin/vue-vben-admin.md"
+    },
+    {
+      "name": "Vuetify",
+      "slug": "vuetify",
+      "type": "design-system",
+      "tags": [
+        "vue",
+        "material-design",
+        "comprehensive"
+      ],
+      "tech": [
+        "vue",
+        "typescript"
+      ],
+      "source_url": "https://github.com/vuetifyjs/vuetify",
+      "license": "MIT",
+      "claude_prompt": "Use Vuetify: Material Design component framework for Vue 3.",
+      "added": "2026-04-17",
+      "path": "design-systems/entries/vuetify.md"
+    }
+  ]
+}

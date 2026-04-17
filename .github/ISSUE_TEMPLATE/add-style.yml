@@ -1,0 +1,33 @@
+name: Propose a new style
+description: Suggest a named visual style to add under styles/
+title: "[style] "
+labels: [style, enhancement]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Style name
+      placeholder: e.g. Neo-Brutalism
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Reference / source
+      description: Articles, sites, or examples that define this style
+    validations:
+      required: true
+  - type: textarea
+    id: tokens
+    attributes:
+      label: Rough design tokens
+      description: Colors, radii, shadows, fonts — sketch what makes this style distinctive
+    validations:
+      required: true
+  - type: checkboxes
+    id: license
+    attributes:
+      label: License
+      options:
+        - label: I confirm the reference material is either open-licensed or linked (not copied)
+          required: true

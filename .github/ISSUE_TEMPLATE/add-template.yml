@@ -1,0 +1,31 @@
+name: Propose a new template
+description: Suggest a page or component template to add under templates/
+title: "[template] "
+labels: [template, enhancement]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Template name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [landing-pages, dashboards, components, mobile]
+    validations:
+      required: true
+  - type: input
+    id: tech
+    attributes:
+      label: Tech stack
+      placeholder: html + tailwind, react + tailwind, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What it is
+    validations:
+      required: true
