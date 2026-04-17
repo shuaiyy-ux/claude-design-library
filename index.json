@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T23:36:30.212Z",
-  "count": 102,
+  "generated_at": "2026-04-17T23:42:55.236Z",
+  "count": 122,
   "entries": [
     {
       "name": "3D Renders",
@@ -413,6 +413,30 @@
       "path": "styles/brutalism/style.md"
     },
     {
+      "name": "Candy Pop",
+      "slug": "candy-pop",
+      "type": "palette",
+      "tags": [
+        "bright",
+        "playful",
+        "vivid",
+        "kids"
+      ],
+      "colors": [
+        "#FF6B9D",
+        "#FFC93C",
+        "#6BCB77",
+        "#4D96FF",
+        "#B983FF",
+        "#FFF7E6"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Candy Pop: bright saturated pink/yellow/green/blue/purple on cream. Kids, fun SaaS, event sites.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/candy-pop.md"
+    },
+    {
       "name": "Carbon Design System",
       "slug": "carbon",
       "type": "design-system",
@@ -432,6 +456,32 @@
       "claude_prompt": "Use Carbon Design System: IBM's enterprise-oriented design system for React (and vanilla).",
       "added": "2026-04-17",
       "path": "design-systems/entries/carbon.md"
+    },
+    {
+      "name": "Catppuccin Mocha",
+      "slug": "catppuccin-mocha",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "pastel",
+        "warm-dark",
+        "soft"
+      ],
+      "colors": [
+        "#1E1E2E",
+        "#11111B",
+        "#CDD6F4",
+        "#89B4FA",
+        "#F5C2E7",
+        "#A6E3A1",
+        "#F9E2AF",
+        "#FAB387"
+      ],
+      "source_url": "https://github.com/catppuccin/catppuccin",
+      "license": "MIT",
+      "claude_prompt": "Use Catppuccin Mocha: pastel-accent dark theme. Gentle contrast, candy-soft accents on espresso base.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/catppuccin-mocha.md"
     },
     {
       "name": "Chakra UI",
@@ -491,6 +541,32 @@
       "path": "templates/admin/coreui-react.md"
     },
     {
+      "name": "Cyberpunk Neon",
+      "slug": "cyberpunk-neon",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "neon",
+        "electric",
+        "web3",
+        "gaming"
+      ],
+      "colors": [
+        "#0D0221",
+        "#261447",
+        "#FF00CF",
+        "#00F5D4",
+        "#F2E900",
+        "#FF2975",
+        "#9D00FF"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Cyberpunk Neon: near-black bg, electric magenta/cyan/yellow accents. Web3, gaming, edgy tech branding.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/cyberpunk-neon.md"
+    },
+    {
       "name": "daisyUI",
       "slug": "daisyui",
       "type": "design-system",
@@ -509,6 +585,56 @@
       "claude_prompt": "Use daisyUI: Tailwind plugin that adds semantic classes (btn, card, modal) and 30+ themes. Works with any framework.",
       "added": "2026-04-17",
       "path": "design-systems/entries/daisyui.md"
+    },
+    {
+      "name": "Dracula",
+      "slug": "dracula",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "purple",
+        "vibrant",
+        "developer"
+      ],
+      "colors": [
+        "#282A36",
+        "#44475A",
+        "#F8F8F2",
+        "#BD93F9",
+        "#FF79C6",
+        "#50FA7B",
+        "#F1FA8C",
+        "#FFB86C"
+      ],
+      "source_url": "https://draculatheme.com",
+      "license": "MIT",
+      "claude_prompt": "Use Dracula palette: deep navy-black background, off-white text, vivid purple/pink/green accents.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/dracula.md"
+    },
+    {
+      "name": "Editorial Cream",
+      "slug": "editorial-cream",
+      "type": "palette",
+      "tags": [
+        "warm",
+        "minimal",
+        "editorial",
+        "magazine"
+      ],
+      "colors": [
+        "#F8F4EC",
+        "#E8DCC4",
+        "#D4CFC4",
+        "#8B2E2E",
+        "#1A1A1A",
+        "#6B6357"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Editorial Cream: warm ivory base, sepia rule lines, muted burgundy accent. Pairs with editorial-magazine style.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/editorial-cream.md"
     },
     {
       "name": "Editorial Magazine",
@@ -562,6 +688,31 @@
       "claude_prompt": "Use Feather icons: 280+ simply-drawn line-style SVG icons.",
       "added": "2026-04-17",
       "path": "icons/entries/feather.md"
+    },
+    {
+      "name": "Fintech Corporate",
+      "slug": "fintech-corporate",
+      "type": "palette",
+      "tags": [
+        "blue",
+        "corporate",
+        "trust",
+        "fintech",
+        "banking"
+      ],
+      "colors": [
+        "#0B2545",
+        "#13315C",
+        "#8DA9C4",
+        "#EEF4ED",
+        "#FFFFFF",
+        "#CA6E5A"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Fintech Corporate: deep navy + steel blue + near-white, with warm copper accent for CTAs. Trust, stability, finance.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/fintech-corporate.md"
     },
     {
       "name": "Fira Code",
@@ -677,6 +828,31 @@
       "path": "photos/entries/food-drink.md"
     },
     {
+      "name": "Forest",
+      "slug": "forest",
+      "type": "palette",
+      "tags": [
+        "earthy",
+        "green",
+        "natural",
+        "wellness"
+      ],
+      "colors": [
+        "#2D4739",
+        "#5B7553",
+        "#8BA888",
+        "#C9D5B5",
+        "#F2E3D5",
+        "#7F5539",
+        "#DDB892"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Forest: deep moss + sage + cream. Earthy wellness/outdoor brand aesthetic.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/forest.md"
+    },
+    {
       "name": "Geist",
       "slug": "geist",
       "type": "font",
@@ -724,6 +900,32 @@
       "claude_prompt": "Browse Google Fonts repo for 1500+ open-source typefaces. Per-font license varies (mostly OFL, some Apache-2.0 / UFL) — check each.",
       "added": "2026-04-17",
       "path": "fonts/entries/google-fonts.md"
+    },
+    {
+      "name": "Gruvbox Dark",
+      "slug": "gruvbox-dark",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "warm",
+        "retro",
+        "developer"
+      ],
+      "colors": [
+        "#282828",
+        "#3C3836",
+        "#EBDBB2",
+        "#FABD2F",
+        "#FB4934",
+        "#83A598",
+        "#B8BB26",
+        "#D3869B"
+      ],
+      "source_url": "https://github.com/morhetz/gruvbox",
+      "license": "MIT",
+      "claude_prompt": "Use Gruvbox Dark: warm brown-olive background with retro autumnal accents.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/gruvbox-dark.md"
     },
     {
       "name": "Headless UI",
@@ -993,6 +1195,32 @@
       "path": "templates/admin/mantis-free-react.md"
     },
     {
+      "name": "Material Indigo",
+      "slug": "material-indigo",
+      "type": "palette",
+      "tags": [
+        "blue",
+        "material-design",
+        "google",
+        "enterprise"
+      ],
+      "colors": [
+        "#E8EAF6",
+        "#C5CAE9",
+        "#7986CB",
+        "#3F51B5",
+        "#303F9F",
+        "#1A237E",
+        "#FF4081",
+        "#212121"
+      ],
+      "source_url": "https://m2.material.io/design/color/the-color-system.html",
+      "license": "Apache-2.0",
+      "claude_prompt": "Use Material Indigo: Google's classic indigo scale (50-900) + pink accent #FF4081 + neutral #212121.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/material-indigo.md"
+    },
+    {
       "name": "Material Symbols / Icons",
       "slug": "material-symbols",
       "type": "icon-set",
@@ -1105,6 +1333,31 @@
       "claude_prompt": "Apply Swiss/minimal style: strict 12-column grid, generous whitespace, Helvetica or Inter, black on white with one accent color, no decorative elements, asymmetric balance, hierarchy via type size only.",
       "added": "2026-04-17",
       "path": "styles/minimal-swiss/style.md"
+    },
+    {
+      "name": "Monochrome",
+      "slug": "monochrome",
+      "type": "palette",
+      "tags": [
+        "grayscale",
+        "minimal",
+        "editorial",
+        "swiss"
+      ],
+      "colors": [
+        "#000000",
+        "#1A1A1A",
+        "#4D4D4D",
+        "#808080",
+        "#B3B3B3",
+        "#E6E6E6",
+        "#FFFFFF"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Monochrome",
+      "license": "CC0",
+      "claude_prompt": "Use Monochrome: pure grayscale steps. Pairs with Swiss/editorial/brutalism styles. Add at most one accent.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/monochrome.md"
     },
     {
       "name": "Motion (Framer Motion)",
@@ -1245,6 +1498,33 @@
       "path": "templates/kits/nextjs-commerce.md"
     },
     {
+      "name": "Nord",
+      "slug": "nord",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "cool",
+        "minimal",
+        "arctic",
+        "developer"
+      ],
+      "colors": [
+        "#2E3440",
+        "#3B4252",
+        "#434C5E",
+        "#4C566A",
+        "#D8DEE9",
+        "#88C0D0",
+        "#81A1C1",
+        "#5E81AC"
+      ],
+      "source_url": "https://www.nordtheme.com",
+      "license": "MIT",
+      "claude_prompt": "Use Nord palette: Arctic-inspired cool blues on deep slate. Bg #2E3440, fg #D8DEE9, accent #88C0D0.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/nord.md"
+    },
+    {
       "name": "Nuxt UI",
       "slug": "nuxt-ui",
       "type": "design-system",
@@ -1265,6 +1545,57 @@
       "claude_prompt": "Use Nuxt UI: Tailwind + Headless UI components optimized for Nuxt.",
       "added": "2026-04-17",
       "path": "design-systems/entries/nuxt-ui.md"
+    },
+    {
+      "name": "Ocean",
+      "slug": "ocean",
+      "type": "palette",
+      "tags": [
+        "cool",
+        "blue",
+        "calm",
+        "hero"
+      ],
+      "colors": [
+        "#050A30",
+        "#000C66",
+        "#0000FF",
+        "#1E90FF",
+        "#7EC8E3",
+        "#B0E0E6",
+        "#E0F7FA"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Ocean: deep navy to light aqua. Cool, calm, trust-building. Good for fintech, healthcare, tech-enterprise.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/ocean.md"
+    },
+    {
+      "name": "One Dark",
+      "slug": "one-dark",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "modern",
+        "developer",
+        "atom"
+      ],
+      "colors": [
+        "#282C34",
+        "#3E4451",
+        "#ABB2BF",
+        "#61AFEF",
+        "#E06C75",
+        "#98C379",
+        "#C678DD",
+        "#D19A66"
+      ],
+      "source_url": "https://github.com/atom/atom",
+      "license": "MIT",
+      "claude_prompt": "Use One Dark (Atom): slate background, cool pastel accents. Widely-loved editor theme.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/one-dark.md"
     },
     {
       "name": "Park UI",
@@ -1289,6 +1620,31 @@
       "claude_prompt": "Use Park UI: Ark UI (framework-agnostic primitives) + Panda CSS recipes. Works in React, Vue, Solid.",
       "added": "2026-04-17",
       "path": "design-systems/entries/park-ui.md"
+    },
+    {
+      "name": "Pastel Dream",
+      "slug": "pastel-dream",
+      "type": "palette",
+      "tags": [
+        "soft",
+        "pastel",
+        "light",
+        "playful",
+        "candy"
+      ],
+      "colors": [
+        "#FFD6E0",
+        "#FFEFCF",
+        "#D4F4DD",
+        "#C5E1F5",
+        "#E1D4F5",
+        "#FFF8F0"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Pastel Dream: soft rose/butter/mint/sky/lavender. Neo-brutalism and playful SaaS brand friendly.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/pastel-dream.md"
     },
     {
       "name": "People / Portraits",
@@ -1555,6 +1911,32 @@
       "path": "styles/retro-terminal/style.md"
     },
     {
+      "name": "Rosé Pine",
+      "slug": "rose-pine",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "warm",
+        "muted",
+        "editorial"
+      ],
+      "colors": [
+        "#191724",
+        "#1F1D2E",
+        "#E0DEF4",
+        "#C4A7E7",
+        "#EBBCBA",
+        "#9CCFD8",
+        "#F6C177",
+        "#EB6F92"
+      ],
+      "source_url": "https://github.com/rose-pine/rose-pine-theme",
+      "license": "MIT",
+      "claude_prompt": "Use Rosé Pine: muted dark violet base with rosewater, iris, and foam accents. Soft and editorial.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/rose-pine.md"
+    },
+    {
       "name": "SaaS Minimal Landing",
       "slug": "saas-minimal",
       "type": "template",
@@ -1694,6 +2076,83 @@
       "path": "templates/admin/soft-ui-dashboard-tailwind.md"
     },
     {
+      "name": "Solarized Dark",
+      "slug": "solarized-dark",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "warm",
+        "developer",
+        "classic"
+      ],
+      "colors": [
+        "#002B36",
+        "#073642",
+        "#586E75",
+        "#839496",
+        "#93A1A1",
+        "#268BD2",
+        "#B58900",
+        "#CB4B16"
+      ],
+      "source_url": "https://ethanschoonover.com/solarized/",
+      "license": "MIT",
+      "claude_prompt": "Use Solarized Dark: deep teal background with same accent hues as Solarized Light, tuned for dark UIs.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/solarized-dark.md"
+    },
+    {
+      "name": "Solarized Light",
+      "slug": "solarized-light",
+      "type": "palette",
+      "tags": [
+        "light",
+        "warm",
+        "developer",
+        "classic"
+      ],
+      "colors": [
+        "#FDF6E3",
+        "#EEE8D5",
+        "#93A1A1",
+        "#586E75",
+        "#268BD2",
+        "#B58900",
+        "#CB4B16",
+        "#DC322F"
+      ],
+      "source_url": "https://ethanschoonover.com/solarized/",
+      "license": "MIT",
+      "claude_prompt": "Use Solarized Light: warm ivory base #FDF6E3 with muted blue/ochre accents. Designed for high contrast without harshness.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/solarized-light.md"
+    },
+    {
+      "name": "Sunset",
+      "slug": "sunset",
+      "type": "palette",
+      "tags": [
+        "warm",
+        "vivid",
+        "gradient",
+        "hero"
+      ],
+      "colors": [
+        "#FF6B6B",
+        "#FFD93D",
+        "#FF9F40",
+        "#FF6B9D",
+        "#C44569",
+        "#6BCB77",
+        "#FFE66D"
+      ],
+      "source_url": "https://coolors.co",
+      "license": "CC0",
+      "claude_prompt": "Use Sunset: warm coral/peach/gold gradient palette. Great for landing-page heroes and wellness/travel brands.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/sunset.md"
+    },
+    {
       "name": "Tabler",
       "slug": "tabler-admin",
       "type": "template",
@@ -1749,6 +2208,32 @@
       "claude_prompt": "Use Tailblocks: ready-to-use Tailwind CSS blocks with color theme swapping.",
       "added": "2026-04-17",
       "path": "templates/kits/tailblocks.md"
+    },
+    {
+      "name": "Tailwind Slate",
+      "slug": "tailwind-slate",
+      "type": "palette",
+      "tags": [
+        "neutral",
+        "gray",
+        "ui",
+        "default"
+      ],
+      "colors": [
+        "#F8FAFC",
+        "#E2E8F0",
+        "#CBD5E1",
+        "#94A3B8",
+        "#64748B",
+        "#475569",
+        "#1E293B",
+        "#0F172A"
+      ],
+      "source_url": "https://tailwindcss.com/docs/customizing-colors",
+      "license": "MIT",
+      "claude_prompt": "Use Tailwind Slate 50-950: neutral UI grayscale leaning slightly cool. Safe default background/text scale for any app.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/tailwind-slate.md"
     },
     {
       "name": "Tailwind CSS Animate",
@@ -1828,6 +2313,32 @@
       "claude_prompt": "Pick textures/patterns for grain overlays, paper backgrounds, or subtle section fills.",
       "added": "2026-04-17",
       "path": "photos/entries/textures.md"
+    },
+    {
+      "name": "Tokyo Night",
+      "slug": "tokyo-night",
+      "type": "palette",
+      "tags": [
+        "dark",
+        "neon",
+        "modern",
+        "developer"
+      ],
+      "colors": [
+        "#1A1B26",
+        "#24283B",
+        "#A9B1D6",
+        "#7AA2F7",
+        "#BB9AF7",
+        "#9ECE6A",
+        "#F7768E",
+        "#E0AF68"
+      ],
+      "source_url": "https://github.com/enkia/tokyo-night-vscode-theme",
+      "license": "MIT",
+      "claude_prompt": "Use Tokyo Night: deep violet-navy background with neon blue/purple/coral accents. Contemporary developer aesthetic.",
+      "added": "2026-04-17",
+      "path": "palettes/entries/tokyo-night.md"
     },
     {
       "name": "Tremor",

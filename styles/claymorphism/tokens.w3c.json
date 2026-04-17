@@ -1,0 +1,69 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "#E0E5EC",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#4A4E69",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#A084E8",
+      "$type": "color"
+    },
+    "accent-alt": {
+      "$value": "#FFB5A7",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "16px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "24px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "32px",
+      "$type": "dimension"
+    },
+    "full": {
+      "$value": "9999px",
+      "$type": "dimension"
+    }
+  },
+  "shadow": {
+    "clay": {
+      "$value": "inset 8px 8px 16px rgba(255,255,255,0.9), inset -8px -8px 16px rgba(163,177,198,0.6), 8px 8px 24px rgba(163,177,198,0.5)",
+      "$type": "shadow"
+    },
+    "clay-pressed": {
+      "$value": "inset 4px 4px 8px rgba(163,177,198,0.6), inset -4px -4px 8px rgba(255,255,255,0.9)",
+      "$type": "shadow"
+    }
+  },
+  "font": {
+    "sans": {
+      "$value": "'Nunito', 'Quicksand', sans-serif",
+      "$type": "fontFamily"
+    }
+  },
+  "spacing_scale": {
+    "$value": "8px",
+    "$type": "dimension"
+  },
+  "motion": {
+    "duration": {
+      "$value": "200ms",
+      "$type": "duration"
+    },
+    "easing": {
+      "$value": "ease-out",
+      "$type": "duration"
+    }
+  }
+}

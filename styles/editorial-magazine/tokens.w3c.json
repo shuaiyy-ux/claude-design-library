@@ -1,0 +1,105 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "#F8F4EC",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#1A1A1A",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#8B2E2E",
+      "$type": "color"
+    },
+    "muted": {
+      "$value": "#6B6357",
+      "$type": "color"
+    },
+    "rule": {
+      "$value": "#D4CFC4",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "2px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "4px",
+      "$type": "dimension"
+    }
+  },
+  "border": {
+    "width": {
+      "$value": "1px",
+      "$type": "border"
+    },
+    "color": {
+      "$value": "#D4CFC4",
+      "$type": "border"
+    },
+    "style": {
+      "$value": "solid",
+      "$type": "border"
+    }
+  },
+  "shadow": {
+    "none": {
+      "$value": "none",
+      "$type": "shadow"
+    }
+  },
+  "font": {
+    "serif": {
+      "$value": "'Playfair Display', 'GT Sectra', Georgia, serif",
+      "$type": "fontFamily"
+    },
+    "serif-body": {
+      "$value": "'Source Serif Pro', 'Lora', Georgia, serif",
+      "$type": "fontFamily"
+    },
+    "sans": {
+      "$value": "'Inter', sans-serif",
+      "$type": "fontFamily"
+    }
+  },
+  "type_scale": {
+    "display": {
+      "$value": "clamp(56px, 7vw, 96px)",
+      "$type": "dimension"
+    },
+    "h1": {
+      "$value": "40px",
+      "$type": "dimension"
+    },
+    "body": {
+      "$value": "18px",
+      "$type": "dimension"
+    },
+    "caption": {
+      "$value": "13px",
+      "$type": "dimension"
+    }
+  },
+  "line_height": {
+    "body": {
+      "$value": "1.7",
+      "$type": "number"
+    },
+    "heading": {
+      "$value": "1.15",
+      "$type": "number"
+    }
+  },
+  "spacing_scale": {
+    "$value": "8px",
+    "$type": "dimension"
+  }
+}

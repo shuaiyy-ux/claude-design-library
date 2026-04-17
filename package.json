@@ -1,19 +1,20 @@
 {
   "name": "claude-design-library",
-  "version": "1.0.0",
-  "description": "> A curated, machine-readable library of open-source frontend design resources — built to be reused by Claude (and humans).",
-  "main": "index.js",
+  "version": "0.2.0",
+  "description": "A curated, machine-readable library of open-source frontend design resources — built to be reused by Claude (and humans).",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "validate": "tsx scripts/validate.ts",
+    "build-index": "tsx scripts/build-index.ts",
+    "build-w3c-tokens": "tsx scripts/build-w3c-tokens.ts",
+    "screenshot": "tsx scripts/screenshot.ts",
+    "build": "npm run build-w3c-tokens && npm run build-index && npm run validate"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shuaiyy-ux/claude-design-library.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shuaiyy-ux/claude-design-library/issues"
   },

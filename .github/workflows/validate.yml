@@ -13,12 +13,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: "npm"
+      - run: npm ci
       - name: Validate entries
-        run: npx -y tsx scripts/validate.ts
+        run: npm run validate
+      - name: Rebuild W3C tokens and check they match committed
+        run: |
+          npm run build-w3c-tokens
+          git diff --exit-code -- 'styles/*/tokens.w3c.json' || {
+            echo "::error::W3C tokens are out of date. Run 'npm run build-w3c-tokens' locally and commit.";
+            exit 1;
+          }
       - name: Rebuild index and check it matches committed
         run: |
-          npx -y tsx scripts/build-index.ts
+          npm run build-index
           git diff --exit-code index.json || {
-            echo "::error::index.json is out of date. Run 'npx tsx scripts/build-index.ts' locally and commit.";
+            echo "::error::index.json is out of date. Run 'npm run build-index' locally and commit.";
             exit 1;
           }

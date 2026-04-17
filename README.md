@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](./LICENSE)
 [![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
-[![Entries](https://img.shields.io/badge/entries-100%2B-green.svg)](./index.json)
+[![Entries](https://img.shields.io/badge/entries-120%2B-green.svg)](./index.json)
 
 ## Why this exists
 
@@ -25,6 +25,7 @@ This repo is a **structured, license-clear, machine-readable index** of open-sou
 | [`animation/`](./animation) | Motion library index | 6 |
 | [`awesome-lists/`](./awesome-lists) | Upstream curated lists | 8 |
 | [`photos/`](./photos) | Royalty-free photo source taxonomy | 9 |
+| [`palettes/`](./palettes) | Curated color palettes | 20 |
 | [`resources/`](./resources) | Misc links | — |
 | [`index.json`](./index.json) | Auto-generated machine index | — |
 
@@ -92,6 +93,10 @@ Every entry below points at a real upstream repo. License is declared in the ent
 
 → [awesome-lists/README.md](./awesome-lists/README.md)
 
+### Color palettes (20)
+
+Curated color palettes as `colors: [...]` arrays in entry frontmatter — paste-ready for CSS variables or Tailwind config. Includes Nord, Dracula, Solarized, Gruvbox, One Dark, Tokyo Night, Catppuccin, Rosé Pine, Material Indigo, Tailwind Slate, plus 10 mood-based palettes (Sunset, Ocean, Forest, Cyberpunk, Editorial Cream, etc). → [palettes/README.md](./palettes/README.md)
+
 ### Royalty-free photo sources (9)
 
 Curated Unsplash / Pexels topic URLs plus CSS-gradient and SVG-pattern generators. We link to **search / topic pages** (stable) instead of individual photos (which rot). → [photos/README.md](./photos/README.md)
@@ -100,7 +105,7 @@ Curated Unsplash / Pexels topic URLs plus CSS-gradient and SVG-pattern generator
 
 Brutalism · Neo-Brutalism · Glassmorphism · Claymorphism · Minimal/Swiss · Editorial Magazine · Retro Terminal · Skeuomorphic
 
-Each ships with `style.md`, `tokens.json`, and at least one example. → [styles/README.md](./styles/README.md)
+Each ships with `style.md`, `tokens.json` (simple format), `tokens.w3c.json` ([W3C Design Tokens DTCG](https://tr.designtokens.org/format/) format, auto-generated), and at least one example. → [styles/README.md](./styles/README.md)
 
 ## Gallery
 

@@ -1,0 +1,105 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "#FFFFFF",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#0A0A0A",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#E63946",
+      "$type": "color"
+    },
+    "muted": {
+      "$value": "#6B6B6B",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "0px",
+      "$type": "dimension"
+    }
+  },
+  "border": {
+    "width": {
+      "$value": "1px",
+      "$type": "border"
+    },
+    "color": {
+      "$value": "#0A0A0A",
+      "$type": "border"
+    },
+    "style": {
+      "$value": "solid",
+      "$type": "border"
+    }
+  },
+  "shadow": {
+    "none": {
+      "$value": "none",
+      "$type": "shadow"
+    }
+  },
+  "font": {
+    "sans": {
+      "$value": "'Inter', 'Helvetica Neue', Arial, sans-serif",
+      "$type": "fontFamily"
+    },
+    "display": {
+      "$value": "'Inter', 'Neue Haas Grotesk', sans-serif",
+      "$type": "fontFamily"
+    }
+  },
+  "type_scale": {
+    "display": {
+      "$value": "clamp(48px, 8vw, 96px)",
+      "$type": "dimension"
+    },
+    "h1": {
+      "$value": "48px",
+      "$type": "dimension"
+    },
+    "h2": {
+      "$value": "32px",
+      "$type": "dimension"
+    },
+    "body": {
+      "$value": "16px",
+      "$type": "dimension"
+    },
+    "small": {
+      "$value": "13px",
+      "$type": "dimension"
+    }
+  },
+  "grid": {
+    "columns": {
+      "$value": 12,
+      "$type": "other"
+    },
+    "gutter": {
+      "$value": "24px",
+      "$type": "other"
+    },
+    "max_width": {
+      "$value": "1280px",
+      "$type": "other"
+    }
+  },
+  "spacing_scale": {
+    "$value": "8px",
+    "$type": "dimension"
+  }
+}

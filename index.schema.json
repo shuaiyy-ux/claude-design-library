@@ -6,7 +6,7 @@
   "properties": {
     "name": { "type": "string", "minLength": 1 },
     "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
-    "type": { "enum": ["style", "design-system", "template", "inspiration", "icon-set", "font", "awesome-list", "animation", "photo-source"] },
+    "type": { "enum": ["style", "design-system", "template", "inspiration", "icon-set", "font", "awesome-list", "animation", "photo-source", "palette"] },
     "tags": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
     "tech": { "type": "array", "items": { "type": "string" } },
     "source_url": { "type": "string", "format": "uri" },

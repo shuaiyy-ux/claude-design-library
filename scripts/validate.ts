@@ -105,6 +105,7 @@ function main() {
     "awesome-lists/entries",
     "animation/entries",
     "photos/entries",
+    "palettes/entries",
   ];
   let n = 0;
   for (const d of dirs) {

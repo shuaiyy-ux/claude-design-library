@@ -1,0 +1,69 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "#C8C8C8",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#1A1A1A",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#4A90E2",
+      "$type": "color"
+    },
+    "surface-top": {
+      "$value": "#F4F4F4",
+      "$type": "color"
+    },
+    "surface-bottom": {
+      "$value": "#D0D0D0",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "6px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "10px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "14px",
+      "$type": "dimension"
+    }
+  },
+  "shadow": {
+    "bevel": {
+      "$value": "inset 0 1px 0 rgba(255,255,255,0.7), inset 0 -1px 0 rgba(0,0,0,0.2), 0 2px 4px rgba(0,0,0,0.25)",
+      "$type": "shadow"
+    },
+    "pressed": {
+      "$value": "inset 0 1px 3px rgba(0,0,0,0.35)",
+      "$type": "shadow"
+    }
+  },
+  "gradients": {
+    "button": {
+      "$value": "linear-gradient(180deg, #F4F4F4 0%, #D0D0D0 100%)",
+      "$type": "gradient"
+    },
+    "pressed": {
+      "$value": "linear-gradient(180deg, #BFBFBF 0%, #D5D5D5 100%)",
+      "$type": "gradient"
+    }
+  },
+  "font": {
+    "sans": {
+      "$value": "'Lucida Grande', 'Helvetica Neue', sans-serif",
+      "$type": "fontFamily"
+    }
+  },
+  "spacing_scale": {
+    "$value": "4px",
+    "$type": "dimension"
+  }
+}

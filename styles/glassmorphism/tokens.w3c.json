@@ -1,0 +1,95 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#FFFFFF",
+      "$type": "color"
+    },
+    "glass": {
+      "$value": "rgba(255, 255, 255, 0.1)",
+      "$type": "color"
+    },
+    "glass-border": {
+      "$value": "rgba(255, 255, 255, 0.2)",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#FF6B9D",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "12px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "20px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "28px",
+      "$type": "dimension"
+    },
+    "full": {
+      "$value": "9999px",
+      "$type": "dimension"
+    }
+  },
+  "border": {
+    "width": {
+      "$value": "1px",
+      "$type": "border"
+    },
+    "color": {
+      "$value": "rgba(255,255,255,0.2)",
+      "$type": "border"
+    },
+    "style": {
+      "$value": "solid",
+      "$type": "border"
+    }
+  },
+  "shadow": {
+    "sm": {
+      "$value": "0 4px 16px rgba(0,0,0,0.08)",
+      "$type": "shadow"
+    },
+    "md": {
+      "$value": "0 8px 32px rgba(0,0,0,0.12)",
+      "$type": "shadow"
+    },
+    "lg": {
+      "$value": "0 16px 48px rgba(0,0,0,0.18)",
+      "$type": "shadow"
+    }
+  },
+  "backdrop_filter": {
+    "$value": "blur(20px) saturate(180%)",
+    "$type": "other"
+  },
+  "font": {
+    "sans": {
+      "$value": "'SF Pro Display', -apple-system, sans-serif",
+      "$type": "fontFamily"
+    }
+  },
+  "spacing_scale": {
+    "$value": "4px",
+    "$type": "dimension"
+  },
+  "motion": {
+    "duration": {
+      "$value": "300ms",
+      "$type": "duration"
+    },
+    "easing": {
+      "$value": "cubic-bezier(0.25, 0.8, 0.25, 1)",
+      "$type": "duration"
+    }
+  }
+}

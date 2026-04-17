@@ -1,0 +1,31 @@
+name: Screenshots
+
+on:
+  pull_request:
+    paths:
+      - "styles/**/*.html"
+      - "templates/**/*.html"
+      - "scripts/screenshot.ts"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Regenerate previews
+        run: npm run screenshot
+      - name: Fail if committed previews are stale
+        run: |
+          if ! git diff --exit-code --quiet -- "*/preview.png"; then
+            echo "::error::Committed preview.png files are stale. Run 'npm run screenshot' locally and commit the updates."
+            git diff --name-only -- "*/preview.png"
+            exit 1
+          fi
+          echo "✓ All committed previews are up to date"

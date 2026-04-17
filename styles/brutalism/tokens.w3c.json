@@ -1,0 +1,99 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "#FFFFFF",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#FFEB00",
+      "$type": "color"
+    },
+    "accent-alt": {
+      "$value": "#FF3E88",
+      "$type": "color"
+    },
+    "muted": {
+      "$value": "#E5E5E5",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "full": {
+      "$value": "0px",
+      "$type": "dimension"
+    }
+  },
+  "border": {
+    "width": {
+      "$value": "3px",
+      "$type": "border"
+    },
+    "color": {
+      "$value": "#000000",
+      "$type": "border"
+    },
+    "style": {
+      "$value": "solid",
+      "$type": "border"
+    }
+  },
+  "shadow": {
+    "sm": {
+      "$value": "4px 4px 0 0 #000",
+      "$type": "shadow"
+    },
+    "md": {
+      "$value": "8px 8px 0 0 #000",
+      "$type": "shadow"
+    },
+    "lg": {
+      "$value": "12px 12px 0 0 #000",
+      "$type": "shadow"
+    }
+  },
+  "font": {
+    "sans": {
+      "$value": "'Helvetica Neue', Arial, sans-serif",
+      "$type": "fontFamily"
+    },
+    "mono": {
+      "$value": "'IBM Plex Mono', 'Courier New', monospace",
+      "$type": "fontFamily"
+    },
+    "display": {
+      "$value": "'Space Grotesk', sans-serif",
+      "$type": "fontFamily"
+    }
+  },
+  "spacing_scale": {
+    "$value": "4px",
+    "$type": "dimension"
+  },
+  "motion": {
+    "duration": {
+      "$value": "0ms",
+      "$type": "duration"
+    },
+    "easing": {
+      "$value": "steps(1)",
+      "$type": "duration"
+    }
+  }
+}

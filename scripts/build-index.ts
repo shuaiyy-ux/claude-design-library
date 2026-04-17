@@ -60,6 +60,7 @@ function collect(): Entry[] {
     "awesome-lists/entries",
     "animation/entries",
     "photos/entries",
+    "palettes/entries",
   ];
   const entries: Entry[] = [];
   for (const d of dirs) {

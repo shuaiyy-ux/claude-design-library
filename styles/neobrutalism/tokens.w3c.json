@@ -1,0 +1,103 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "#FFFBF0",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#0A0A0A",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#B5EAD7",
+      "$type": "color"
+    },
+    "accent-alt": {
+      "$value": "#FFB5A7",
+      "$type": "color"
+    },
+    "accent-3": {
+      "$value": "#B5B5FF",
+      "$type": "color"
+    },
+    "accent-4": {
+      "$value": "#FFE066",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "4px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "8px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "12px",
+      "$type": "dimension"
+    },
+    "full": {
+      "$value": "9999px",
+      "$type": "dimension"
+    }
+  },
+  "border": {
+    "width": {
+      "$value": "2px",
+      "$type": "border"
+    },
+    "color": {
+      "$value": "#0A0A0A",
+      "$type": "border"
+    },
+    "style": {
+      "$value": "solid",
+      "$type": "border"
+    }
+  },
+  "shadow": {
+    "sm": {
+      "$value": "3px 3px 0 0 #0A0A0A",
+      "$type": "shadow"
+    },
+    "md": {
+      "$value": "6px 6px 0 0 #0A0A0A",
+      "$type": "shadow"
+    },
+    "lg": {
+      "$value": "10px 10px 0 0 #0A0A0A",
+      "$type": "shadow"
+    }
+  },
+  "font": {
+    "sans": {
+      "$value": "'Inter', sans-serif",
+      "$type": "fontFamily"
+    },
+    "display": {
+      "$value": "'Space Grotesk', sans-serif",
+      "$type": "fontFamily"
+    },
+    "mono": {
+      "$value": "'JetBrains Mono', monospace",
+      "$type": "fontFamily"
+    }
+  },
+  "spacing_scale": {
+    "$value": "4px",
+    "$type": "dimension"
+  },
+  "motion": {
+    "duration": {
+      "$value": "120ms",
+      "$type": "duration"
+    },
+    "easing": {
+      "$value": "cubic-bezier(0.4, 0, 0.2, 1)",
+      "$type": "duration"
+    }
+  }
+}

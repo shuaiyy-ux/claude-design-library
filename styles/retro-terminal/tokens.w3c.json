@@ -1,0 +1,63 @@
+{
+  "$description": "Auto-converted from tokens.json. See scripts/build-w3c-tokens.ts.",
+  "colors": {
+    "bg": {
+      "$value": "#0C0C0C",
+      "$type": "color"
+    },
+    "fg": {
+      "$value": "#33FF33",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "#FFB000",
+      "$type": "color"
+    },
+    "muted": {
+      "$value": "#1E5F1E",
+      "$type": "color"
+    }
+  },
+  "radius": {
+    "sm": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "0px",
+      "$type": "dimension"
+    },
+    "lg": {
+      "$value": "0px",
+      "$type": "dimension"
+    }
+  },
+  "shadow": {
+    "glow": {
+      "$value": "0 0 6px currentColor",
+      "$type": "shadow"
+    }
+  },
+  "font": {
+    "mono": {
+      "$value": "'VT323', 'IBM Plex Mono', 'Courier New', monospace",
+      "$type": "fontFamily"
+    }
+  },
+  "effects": {
+    "scanlines": {
+      "$value": "repeating-linear-gradient(0deg, rgba(0,0,0,0.2) 0px, rgba(0,0,0,0.2) 1px, transparent 1px, transparent 3px)",
+      "$type": "other"
+    }
+  },
+  "spacing_scale": {
+    "$value": "4px",
+    "$type": "dimension"
+  },
+  "motion": {
+    "cursor_blink": {
+      "$value": "1s step-end infinite",
+      "$type": "duration"
+    }
+  }
+}
