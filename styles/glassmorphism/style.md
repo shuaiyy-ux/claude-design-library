@@ -5,6 +5,7 @@ type: style
 tags: [translucent, frosted, depth, apple, colorful-bg]
 source_url: https://hype4.academy/articles/design/glassmorphism-in-user-interfaces
 license: CC-BY-4.0
+preview: ./examples/preview.png
 claude_prompt: "Apply glassmorphism: translucent white/dark panels with backdrop-filter blur(20px), subtle 1px inner border, colorful blurred shapes behind panels, soft large radii (16-24px), subtle shadows."
 added: 2026-04-17
 ---

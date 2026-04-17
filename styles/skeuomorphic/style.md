@@ -5,6 +5,7 @@ type: style
 tags: [realistic, textured, 3d, ios6, tactile]
 source_url: https://en.wikipedia.org/wiki/Skeuomorph
 license: CC-BY-4.0
+preview: ./examples/preview.png
 claude_prompt: "Apply skeuomorphism: realistic gradients simulating bevels, textured backgrounds (linen, felt, leather), inner highlights and outer shadows to suggest depth, controls that look like physical objects."
 added: 2026-04-17
 ---

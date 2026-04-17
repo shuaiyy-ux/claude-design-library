@@ -5,6 +5,7 @@ type: style
 tags: [bold, playful, pastel, geometric, web3]
 source_url: https://www.neobrutalism.dev
 license: CC-BY-4.0
+preview: ./examples/preview.png
 claude_prompt: "Apply neo-brutalism: 2-3px black borders, hard offset shadows, pastel backgrounds (mint, peach, periwinkle), rounded but small radius (4-8px), chunky sans-serif, friendly not aggressive."
 added: 2026-04-17
 ---

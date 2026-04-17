@@ -6,6 +6,7 @@ tags: [landing, saas, minimal, hero, pricing]
 tech: [html, tailwind]
 source_url: https://github.com/claude-design-library
 license: MIT
+preview: ./preview.png
 claude_prompt: "Use saas-minimal template as a starting point: hero + 3-feature grid + pricing + CTA, Tailwind CDN, black-on-white minimal aesthetic."
 added: 2026-04-17
 ---

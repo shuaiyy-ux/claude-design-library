@@ -7,11 +7,11 @@ Two kinds of entries live here:
 
 ## In-repo
 
-| Path | What |
-| --- | --- |
-| [landing-pages/saas-minimal](./landing-pages/saas-minimal) | Minimal B&W SaaS landing (Tailwind CDN) |
-| [dashboards/analytics-dark](./dashboards/analytics-dark) | Dark analytics dashboard (Tailwind CDN) |
-| [components/pricing-table](./components/pricing-table) | 3-tier pricing component (vanilla CSS) |
+| Preview | Template | What |
+| :---: | --- | --- |
+| <img src="./landing-pages/saas-minimal/preview.png" width="240"> | **[saas-minimal](./landing-pages/saas-minimal)** | Minimal B&W SaaS landing (Tailwind CDN) |
+| <img src="./dashboards/analytics-dark/preview.png" width="240"> | **[analytics-dark](./dashboards/analytics-dark)** | Dark analytics dashboard (Tailwind CDN) |
+| <img src="./components/pricing-table/preview.png" width="240"> | **[pricing-table](./components/pricing-table)** | 3-tier pricing component (vanilla CSS) |
 
 ## External admin templates
 

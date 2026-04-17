@@ -5,6 +5,7 @@ type: style
 tags: [bold, raw, high-contrast, geometric, anti-design]
 source_url: https://brutalistwebsites.com
 license: CC-BY-4.0
+preview: ./examples/preview.png
 claude_prompt: "Apply brutalism: thick 2-4px black borders, no rounded corners, hard shadows, raw system fonts mixed with monospace, saturated primaries on white or electric backgrounds, no gradients, deliberate typographic clash."
 added: 2026-04-17
 ---

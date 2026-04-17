@@ -5,6 +5,7 @@ type: style
 tags: [serif, print, editorial, long-form, refined]
 source_url: https://www.are.na/explore
 license: CC-BY-4.0
+preview: ./examples/preview.png
 claude_prompt: "Apply editorial magazine style: elegant serif headlines (Playfair, GT Sectra, Canela), drop caps, long-form column layouts, image captions in italic small caps, soft cream background, generous line-height, rule lines between sections."
 added: 2026-04-17
 ---

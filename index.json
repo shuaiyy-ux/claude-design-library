@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T23:10:30.789Z",
+  "generated_at": "2026-04-17T23:24:40.647Z",
   "count": 93,
   "entries": [
     {
@@ -19,6 +19,7 @@
       ],
       "source_url": "https://github.com/claude-design-library",
       "license": "MIT",
+      "preview": "./preview.png",
       "claude_prompt": "Use analytics-dark template: sidebar + topbar + 4 KPI cards + chart placeholder + recent-activity table, dark slate theme.",
       "added": "2026-04-17",
       "path": "templates/dashboards/analytics-dark/template.md"
@@ -354,6 +355,7 @@
       ],
       "source_url": "https://brutalistwebsites.com",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply brutalism: thick 2-4px black borders, no rounded corners, hard shadows, raw system fonts mixed with monospace, saturated primaries on white or electric backgrounds, no gradients, deliberate typographic clash.",
       "added": "2026-04-17",
       "path": "styles/brutalism/style.md"
@@ -412,6 +414,7 @@
       ],
       "source_url": "https://hype4.academy/articles/design/claymorphism-in-user-interfaces",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply claymorphism: chunky rounded corners (20-32px), two layered inset shadows for depth (one dark inner, one light inner at opposite corner), soft pastel backgrounds, thick padding, cartoony friendly feel.",
       "added": "2026-04-17",
       "path": "styles/claymorphism/style.md"
@@ -468,6 +471,7 @@
       ],
       "source_url": "https://www.are.na/explore",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply editorial magazine style: elegant serif headlines (Playfair, GT Sectra, Canela), drop caps, long-form column layouts, image captions in italic small caps, soft cream background, generous line-height, rule lines between sections.",
       "added": "2026-04-17",
       "path": "styles/editorial-magazine/style.md"
@@ -631,6 +635,7 @@
       ],
       "source_url": "https://hype4.academy/articles/design/glassmorphism-in-user-interfaces",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply glassmorphism: translucent white/dark panels with backdrop-filter blur(20px), subtle 1px inner border, colorful blurred shapes behind panels, soft large radii (16-24px), subtle shadows.",
       "added": "2026-04-17",
       "path": "styles/glassmorphism/style.md"
@@ -1008,6 +1013,7 @@
       ],
       "source_url": "https://en.wikipedia.org/wiki/International_Typographic_Style",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply Swiss/minimal style: strict 12-column grid, generous whitespace, Helvetica or Inter, black on white with one accent color, no decorative elements, asymmetric balance, hierarchy via type size only.",
       "added": "2026-04-17",
       "path": "styles/minimal-swiss/style.md"
@@ -1082,6 +1088,7 @@
       ],
       "source_url": "https://www.neobrutalism.dev",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply neo-brutalism: 2-3px black borders, hard offset shadows, pastel backgrounds (mint, peach, periwinkle), rounded but small radius (4-8px), chunky sans-serif, friendly not aggressive.",
       "added": "2026-04-17",
       "path": "styles/neobrutalism/style.md"
@@ -1249,6 +1256,7 @@
       ],
       "source_url": "https://github.com/claude-design-library",
       "license": "MIT",
+      "preview": "./preview.png",
       "claude_prompt": "Use pricing-table component: 3 tiers with middle plan highlighted, vanilla CSS (no framework), responsive.",
       "added": "2026-04-17",
       "path": "templates/components/pricing-table/template.md"
@@ -1400,6 +1408,7 @@
       ],
       "source_url": "https://github.com/topics/terminal-style",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply retro terminal: monospace only (IBM Plex Mono or VT323), phosphor green or amber on near-black, optional CRT scanlines via repeating linear-gradient, blinking block cursor, ASCII-art headings, no images.",
       "added": "2026-04-17",
       "path": "styles/retro-terminal/style.md"
@@ -1421,6 +1430,7 @@
       ],
       "source_url": "https://github.com/claude-design-library",
       "license": "MIT",
+      "preview": "./preview.png",
       "claude_prompt": "Use saas-minimal template as a starting point: hero + 3-feature grid + pricing + CTA, Tailwind CDN, black-on-white minimal aesthetic.",
       "added": "2026-04-17",
       "path": "templates/landing-pages/saas-minimal/template.md"
@@ -1514,6 +1524,7 @@
       ],
       "source_url": "https://en.wikipedia.org/wiki/Skeuomorph",
       "license": "CC-BY-4.0",
+      "preview": "./examples/preview.png",
       "claude_prompt": "Apply skeuomorphism: realistic gradients simulating bevels, textured backgrounds (linen, felt, leather), inner highlights and outer shadows to suggest depth, controls that look like physical objects.",
       "added": "2026-04-17",
       "path": "styles/skeuomorphic/style.md"

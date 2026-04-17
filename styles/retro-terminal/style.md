@@ -5,6 +5,7 @@ type: style
 tags: [monospace, cli, phosphor, scanlines, hacker]
 source_url: https://github.com/topics/terminal-style
 license: CC-BY-4.0
+preview: ./examples/preview.png
 claude_prompt: "Apply retro terminal: monospace only (IBM Plex Mono or VT323), phosphor green or amber on near-black, optional CRT scanlines via repeating linear-gradient, blinking block cursor, ASCII-art headings, no images."
 added: 2026-04-17
 ---
