@@ -59,6 +59,7 @@ function collect(): Entry[] {
     "fonts/entries",
     "awesome-lists/entries",
     "animation/entries",
+    "photos/entries",
   ];
   const entries: Entry[] = [];
   for (const d of dirs) {

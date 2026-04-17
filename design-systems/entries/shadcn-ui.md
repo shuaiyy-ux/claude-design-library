@@ -6,6 +6,7 @@ tags: [react, tailwind, radix, copy-paste, themeable]
 tech: [react, tailwind, typescript]
 source_url: https://ui.shadcn.com
 license: MIT
+preview_url: https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/public/opengraph-image.png
 claude_prompt: "Use shadcn/ui: Radix primitives + Tailwind, components are copied into the project (not imported), CSS variables for theming, composable."
 added: 2026-04-17
 ---

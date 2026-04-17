@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-04-17T23:24:40.647Z",
-  "count": 93,
+  "generated_at": "2026-04-17T23:36:30.212Z",
+  "count": 102,
   "entries": [
+    {
+      "name": "3D Renders",
+      "slug": "3d-renders",
+      "type": "photo-source",
+      "tags": [
+        "3d",
+        "render",
+        "abstract",
+        "blender",
+        "web3"
+      ],
+      "source_url": "https://unsplash.com/t/3d-renders",
+      "license": "reference-only",
+      "claude_prompt": "Pick 3D render / claymorphism-style abstract assets — great for web3, landing heroes, and playful product pages.",
+      "added": "2026-04-17",
+      "path": "photos/entries/3d-renders.md"
+    },
+    {
+      "name": "Abstract / Gradient backgrounds",
+      "slug": "abstract-gradient",
+      "type": "photo-source",
+      "tags": [
+        "abstract",
+        "gradient",
+        "background",
+        "bokeh",
+        "mesh"
+      ],
+      "source_url": "https://unsplash.com/s/photos/abstract-gradient",
+      "license": "reference-only",
+      "claude_prompt": "Pick abstract/gradient hero backgrounds from Unsplash (search abstract-gradient, bokeh, mesh-gradient) or use CSS gradient generators.",
+      "added": "2026-04-17",
+      "path": "photos/entries/abstract-gradient.md"
+    },
     {
       "name": "Analytics Dark Dashboard",
       "slug": "analytics-dark",
@@ -64,6 +98,23 @@
       "path": "design-systems/entries/ant-design.md"
     },
     {
+      "name": "Architecture / Interiors",
+      "slug": "architecture",
+      "type": "photo-source",
+      "tags": [
+        "architecture",
+        "interior",
+        "minimal",
+        "brutalist",
+        "real-estate"
+      ],
+      "source_url": "https://unsplash.com/t/architecture-interiors",
+      "license": "reference-only",
+      "claude_prompt": "Pick architecture/interior photos — great for minimal, brutalist, real-estate, or editorial aesthetics.",
+      "added": "2026-04-17",
+      "path": "photos/entries/architecture.md"
+    },
+    {
       "name": "Arco Design",
       "slug": "arco-design",
       "type": "design-system",
@@ -80,6 +131,7 @@
       ],
       "source_url": "https://github.com/arco-design/arco-design",
       "license": "MIT",
+      "preview_url": "https://p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/08095282566ac4e0fd98f89aed934b65.png~tplv-uwbnlip3yd-png.png",
       "claude_prompt": "Use Arco Design: ByteDance enterprise-class React/Vue design system.",
       "added": "2026-04-17",
       "path": "design-systems/entries/arco-design.md"
@@ -491,6 +543,7 @@
       ],
       "source_url": "https://github.com/element-plus/element-plus",
       "license": "MIT",
+      "preview_url": "https://user-images.githubusercontent.com/10731096/95823103-9ce15780-0d5f-11eb-8010-1bd1b5910d4f.png",
       "claude_prompt": "Use Element Plus: Vue 3 UI library (successor to Element UI).",
       "added": "2026-04-17",
       "path": "design-systems/entries/element-plus.md"
@@ -607,6 +660,23 @@
       "path": "fonts/entries/fontsource.md"
     },
     {
+      "name": "Food / Drink",
+      "slug": "food-drink",
+      "type": "photo-source",
+      "tags": [
+        "food",
+        "drink",
+        "restaurant",
+        "cafe",
+        "editorial"
+      ],
+      "source_url": "https://unsplash.com/t/food-drink",
+      "license": "reference-only",
+      "claude_prompt": "Pick food/drink photos for restaurant, cafe, delivery, or editorial food-blog projects.",
+      "added": "2026-04-17",
+      "path": "photos/entries/food-drink.md"
+    },
+    {
       "name": "Geist",
       "slug": "geist",
       "type": "font",
@@ -675,6 +745,24 @@
       "claude_prompt": "Use Headless UI: unstyled, accessible React/Vue components from Tailwind Labs. Pair with Tailwind for styling.",
       "added": "2026-04-17",
       "path": "design-systems/entries/headless-ui.md"
+    },
+    {
+      "name": "Hero — Tech / Office",
+      "slug": "hero-tech",
+      "type": "photo-source",
+      "tags": [
+        "hero",
+        "saas",
+        "tech",
+        "office",
+        "workspace",
+        "laptop"
+      ],
+      "source_url": "https://unsplash.com/t/technology",
+      "license": "reference-only",
+      "claude_prompt": "Pick a hero photo for a SaaS/tech landing page — browse Unsplash /t/technology, /t/business-work, or Pexels /search/office.",
+      "added": "2026-04-17",
+      "path": "photos/entries/hero-tech.md"
     },
     {
       "name": "Heroicons",
@@ -1076,6 +1164,23 @@
       "path": "design-systems/entries/naive-ui.md"
     },
     {
+      "name": "Nature / Landscapes",
+      "slug": "nature-landscape",
+      "type": "photo-source",
+      "tags": [
+        "nature",
+        "landscape",
+        "outdoor",
+        "travel",
+        "editorial"
+      ],
+      "source_url": "https://unsplash.com/t/nature",
+      "license": "reference-only",
+      "claude_prompt": "Pick nature/landscape photos from Unsplash /t/nature, /t/wallpapers, or Pexels /search/nature for editorial and travel heroes.",
+      "added": "2026-04-17",
+      "path": "photos/entries/nature-landscape.md"
+    },
+    {
       "name": "Neo-Brutalism",
       "slug": "neobrutalism",
       "type": "style",
@@ -1156,6 +1261,7 @@
       ],
       "source_url": "https://github.com/nuxt/ui",
       "license": "MIT",
+      "preview_url": "https://github.com/user-attachments/assets/51526d6d-e5ec-41b4-aa37-242dec1cdb27",
       "claude_prompt": "Use Nuxt UI: Tailwind + Headless UI components optimized for Nuxt.",
       "added": "2026-04-17",
       "path": "design-systems/entries/nuxt-ui.md"
@@ -1183,6 +1289,23 @@
       "claude_prompt": "Use Park UI: Ark UI (framework-agnostic primitives) + Panda CSS recipes. Works in React, Vue, Solid.",
       "added": "2026-04-17",
       "path": "design-systems/entries/park-ui.md"
+    },
+    {
+      "name": "People / Portraits",
+      "slug": "people-portrait",
+      "type": "photo-source",
+      "tags": [
+        "people",
+        "portraits",
+        "team",
+        "testimonial",
+        "avatar"
+      ],
+      "source_url": "https://unsplash.com/t/people",
+      "license": "reference-only",
+      "claude_prompt": "Pick portraits / team photos from Unsplash /t/people or Pexels /search/portrait for avatars, testimonials, about pages.",
+      "added": "2026-04-17",
+      "path": "photos/entries/people-portrait.md"
     },
     {
       "name": "Phosphor Icons",
@@ -1277,6 +1400,7 @@
       ],
       "source_url": "https://github.com/primer/react",
       "license": "MIT",
+      "preview_url": "https://user-images.githubusercontent.com/4608155/127241386-f11da52d-00d9-4366-b01c-6f4c1ebcf7f2.png",
       "claude_prompt": "Use Primer React: GitHub's design system components.",
       "added": "2026-04-17",
       "path": "design-systems/entries/primer.md"
@@ -1300,6 +1424,23 @@
       "claude_prompt": "Use PrimeReact: rich component library (90+ components) with many built-in themes. PrimeVue and PrimeNG are siblings.",
       "added": "2026-04-17",
       "path": "design-systems/entries/primereact.md"
+    },
+    {
+      "name": "E-commerce Product Shots",
+      "slug": "product-shots",
+      "type": "photo-source",
+      "tags": [
+        "product",
+        "ecommerce",
+        "apparel",
+        "object",
+        "white-bg"
+      ],
+      "source_url": "https://unsplash.com/s/photos/product-photography",
+      "license": "reference-only",
+      "claude_prompt": "Pick product shots for e-commerce templates — Unsplash product-photography search or Pexels product/apparel searches.",
+      "added": "2026-04-17",
+      "path": "photos/entries/product-shots.md"
     },
     {
       "name": "Quasar",
@@ -1451,6 +1592,7 @@
       ],
       "source_url": "https://github.com/DouyinFE/semi-design",
       "license": "MIT",
+      "preview_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ptlz_zlp/ljhwZthlaukjlkulzlp/semi-info-1.gif",
       "claude_prompt": "Use Semi Design: Douyin/TikTok modern React design system with strong theming.",
       "added": "2026-04-17",
       "path": "design-systems/entries/semi-design.md"
@@ -1473,6 +1615,7 @@
       ],
       "source_url": "https://ui.shadcn.com",
       "license": "MIT",
+      "preview_url": "https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/v4/public/opengraph-image.png",
       "claude_prompt": "Use shadcn/ui: Radix primitives + Tailwind, components are copied into the project (not imported), CSS variables for theming, composable.",
       "added": "2026-04-17",
       "path": "design-systems/entries/shadcn-ui.md"
@@ -1507,6 +1650,7 @@
       ],
       "source_url": "https://github.com/skeletonlabs/skeleton",
       "license": "MIT",
+      "preview_url": "https://i.imgur.com/3YVHkcc.png",
       "claude_prompt": "Use Skeleton: Svelte + Tailwind UI toolkit with themes.",
       "added": "2026-04-17",
       "path": "design-systems/entries/skeleton.md"
@@ -1565,6 +1709,7 @@
       ],
       "source_url": "https://github.com/tabler/tabler",
       "license": "MIT",
+      "preview_url": "https://raw.githubusercontent.com/tabler/tabler/dev/shared/static/tabler-preview.png",
       "claude_prompt": "Use Tabler as a Bootstrap-based admin dashboard template with a clean, responsive design.",
       "added": "2026-04-17",
       "path": "templates/admin/tabler.md"
@@ -1600,6 +1745,7 @@
       ],
       "source_url": "https://github.com/mertJF/tailblocks",
       "license": "MIT",
+      "preview_url": "https://raw.githubusercontent.com/mertJF/tailblocks/master/public/preview.gif",
       "claude_prompt": "Use Tailblocks: ready-to-use Tailwind CSS blocks with color theme swapping.",
       "added": "2026-04-17",
       "path": "templates/kits/tailblocks.md"
@@ -1667,6 +1813,23 @@
       "path": "design-systems/entries/tdesign.md"
     },
     {
+      "name": "Textures / Patterns",
+      "slug": "textures",
+      "type": "photo-source",
+      "tags": [
+        "texture",
+        "pattern",
+        "paper",
+        "noise",
+        "grain"
+      ],
+      "source_url": "https://unsplash.com/t/textures-patterns",
+      "license": "reference-only",
+      "claude_prompt": "Pick textures/patterns for grain overlays, paper backgrounds, or subtle section fills.",
+      "added": "2026-04-17",
+      "path": "photos/entries/textures.md"
+    },
+    {
       "name": "Tremor",
       "slug": "tremor",
       "type": "design-system",
@@ -1684,6 +1847,7 @@
       ],
       "source_url": "https://github.com/tremorlabs/tremor",
       "license": "Apache-2.0",
+      "preview_url": "https://raw.githubusercontent.com/tremorlabs/tremor/main/public/images/github-banner.png",
       "claude_prompt": "Use Tremor: React components for dashboards and analytics (charts, KPI cards, tables) built on Tailwind.",
       "added": "2026-04-17",
       "path": "design-systems/entries/tremor.md"
